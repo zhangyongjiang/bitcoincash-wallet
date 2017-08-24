@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bitcoin Cash Wallet</string>
+    <string name="app_name_short">Bitcoin Cash</string>
+
+    <string-array name="preferences_block_explorer_values">
+        <item>https://blockchair.com/bitcoin-cash/</item>
+        <item>https://bitinfocharts.com/bitcoin cash/</item>
+        <item>https://www.blocktrail.com/BCC/</item>
+    </string-array>
+    <string-array name="preferences_block_explorer_labels">
+        <item>blockchair.com</item>
+        <item>bitinfocharts.com</item>
+        <item>blocktrail.com</item>
+    </string-array>
+</resources>
