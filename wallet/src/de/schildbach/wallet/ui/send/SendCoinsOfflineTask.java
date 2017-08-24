@@ -51,6 +51,7 @@ public abstract class SendCoinsOfflineTask {
     }
 
     public final void sendCoinsOffline(final SendRequest sendRequest) {
+        sendRequest.setUseForkId(true);
         backgroundHandler.post(new Runnable() {
             @Override
             public void run() {
