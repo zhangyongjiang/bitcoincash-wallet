@@ -33,6 +33,7 @@ import com.squareup.okhttp.HttpUrl;
 import com.squareup.okhttp.OkHttpClient;
 import com.squareup.okhttp.logging.HttpLoggingInterceptor;
 
+import de.schildbach.wallet_test.BuildConfig;
 import de.schildbach.wallet_test.R;
 
 import android.os.Build;
@@ -43,7 +44,7 @@ import android.text.format.DateUtils;
  * @author Andreas Schildbach
  */
 public final class Constants {
-    public static final boolean TEST = R.class.getPackage().getName().contains("_test");
+    public static final boolean TEST = BuildConfig.APPLICATION_ID.contains("_test");
 
     /** Network this wallet is on (e.g. testnet or mainnet). */
     public static final NetworkParameters NETWORK_PARAMETERS = TEST ? TestNet3Params.get() : MainNetParams.get();
@@ -87,7 +88,7 @@ public final class Constants {
         public static final String EXTERNAL_WALLET_KEY_BACKUP = "bitcoin-wallet-keys" + FILENAME_NETWORK_SUFFIX;
 
         /** Filename of the manual wallet backup. */
-        public static final String EXTERNAL_WALLET_BACKUP = "bitcoin-wallet-backup" + FILENAME_NETWORK_SUFFIX;
+        public static final String EXTERNAL_WALLET_BACKUP = "bitcoincash-wallet-backup" + FILENAME_NETWORK_SUFFIX;
 
         /** Filename of the block store for storing the chain. */
         public static final String BLOCKCHAIN_FILENAME = "blockchain" + FILENAME_NETWORK_SUFFIX;
@@ -124,23 +125,23 @@ public final class Constants {
     public static final int MAX_NUM_CONFIRMATIONS = 7;
 
     /** User-agent to use for network access. */
-    public static final String USER_AGENT = "Bitcoin Wallet";
+    public static final String USER_AGENT = "Bitcoin Cash Wallet";
 
     /** Default currency to use if all default mechanisms fail. */
     public static final String DEFAULT_EXCHANGE_CURRENCY = "USD";
 
     /** Donation address for tip/donate action. */
     public static final String DONATION_ADDRESS = NETWORK_PARAMETERS.getId().equals(NetworkParameters.ID_MAINNET)
-            ? "14Jb4oBH3aSCZ8UuN1bTs2gLGhZYfSxZKH" : null;
+            ? "159j3V2UNAyDiUUSxSJES2h9nPPoLdrXn5" : null;
 
     /** Recipient e-mail address for reports. */
-    public static final String REPORT_EMAIL = "bitcoin.wallet.developers@gmail.com";
+    public static final String REPORT_EMAIL = "hashengineeringsolutions@gmail.com";
 
     /** Subject line for manually reported issues. */
-    public static final String REPORT_SUBJECT_ISSUE = "Reported issue";
+    public static final String REPORT_SUBJECT_ISSUE = "Reported issue " + USER_AGENT;
 
     /** Subject line for crash reports. */
-    public static final String REPORT_SUBJECT_CRASH = "Crash report";
+    public static final String REPORT_SUBJECT_CRASH = "Crash report " + USER_AGENT;
 
     public static final char CHAR_HAIR_SPACE = '\u200a';
     public static final char CHAR_THIN_SPACE = '\u2009';
@@ -156,8 +157,8 @@ public final class Constants {
 
     public static final BaseEncoding HEX = BaseEncoding.base16().lowerCase();
 
-    public static final String SOURCE_URL = "https://github.com/bitcoin-wallet/bitcoin-wallet";
-    public static final String BINARY_URL = "https://github.com/bitcoin-wallet/bitcoin-wallet/releases";
+    public static final String SOURCE_URL = "https://github.com/bitcoincash-wallet/bitcoincash-wallet";
+    public static final String BINARY_URL = "https://github.com/bitcoincash-wallet/bitcoincash-wallet/releases";
     public static final String MARKET_APP_URL = "market://details?id=%s";
     public static final String WEBMARKET_APP_URL = "https://play.google.com/store/apps/details?id=%s";
 
