@@ -75,7 +75,7 @@ public class ExchangeRatesProvider extends ContentProvider {
     private long lastUpdated = 0;
 
     private static final HttpUrl BITCOINAVERAGE_URL = HttpUrl
-            .parse("https://apiv2.bitcoinaverage.com/indices/global/ticker/short?crypto=BTC");
+            .parse("https://apiv2.bitcoinaverage.com/indices/global/ticker/short?crypto=BCH");
     private static final String BITCOINAVERAGE_SOURCE = "BitcoinAverage.com";
 
     private static final long UPDATE_FREQ_MS = 10 * DateUtils.MINUTE_IN_MILLIS;
@@ -241,7 +241,7 @@ public class ExchangeRatesProvider extends ContentProvider {
 
                 for (final Iterator<String> i = head.keys(); i.hasNext();) {
                     final String currencyCode = i.next();
-                    if (currencyCode.startsWith("BTC")) {
+                    if (currencyCode.startsWith("BCH")) {
                         final String fiatCurrencyCode = currencyCode.substring(3);
                         if (!fiatCurrencyCode.equals(MonetaryFormat.CODE_BTC)
                                 && !fiatCurrencyCode.equals(MonetaryFormat.CODE_MBTC)
