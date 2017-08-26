@@ -81,7 +81,7 @@
             <intent-filter>
                 <action android:name="android.nfc.action.NDEF_DISCOVERED" />
 
-                <data android:mimeType="application/x-btctx" />
+                <data android:mimeType="application/x-bcctx" />
 
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
@@ -173,6 +173,7 @@
                 <category android:name="android.intent.category.DEFAULT" />
 
                 <data android:mimeType="application/x-bitcoin-wallet-backup" />
+                <data android:mimeType="application/x-bitcoincash-wallet-backup" />
             </intent-filter>
         </activity>
         <activity
