@@ -14,6 +14,10 @@ SUPPORTED SPECIFICATIONS
 * [BIP-70](https://github.com/bitcoin/bips/blob/master/bip-0070.mediawiki): Payment protocol
 * [BIP-71](https://github.com/bitcoin/bips/blob/master/bip-0071.mediawiki): Payment protocol MIME types
 * [RFC 6979](https://tools.ietf.org/html/rfc6979): Deterministic usage of ECDSA
+* [UAHF Technical Specification](https://github.com/Bitcoin-UAHF/spec/blob/master/uahf-technical-spec.md): The fork that created Bitcoin Cash
+* [BUIP-HF Digest for replay protected signature verification across hard forks](https://github.com/Bitcoin-UAHF/spec/blob/master/replay-protected-sighash.md)
+  
+
 
 
 ## UNSUPPORTED OR PARTIALLY SUPPORTED SPECIFICATIONS
