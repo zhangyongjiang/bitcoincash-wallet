@@ -24,7 +24,7 @@
   <string name="help_request_coins">
 <![CDATA[
 		<p>
-			Med denna dialog kan du ta emot bitcoin från någon annan (som redan har Bitcoin Wallet installerad på sin telefon).
+			Med denna dialog kan du ta emot bitcoin från någon annan (som redan har Bitcoin Cash Wallet installerad på sin telefon).
 		</p>
 		<p>
 			Först anger du hur många bitcoin du vill att de skickar.
@@ -60,7 +60,7 @@
 		</p>
 		<p>
 			Du kan skapa en transaktion även om du inte är online.
-			Den kommer att skickas nästa gång Bitcoin Wallet startas.
+			Den kommer att skickas nästa gång Bitcoin Cash Wallet startas.
 			Om du vill att en transaktion ska hanteras så fort som möjligt, se till att ha bra uppkoppling till internet (exempelvis ett WLAN).
 		</p>
 		<p>
@@ -76,12 +76,12 @@
 			<b>Några ord om säkerhet och bitcoin:</n>
 		</p>
 		<p>
-			Dina bitcoin i Bitcoin Wallet sparas på din Android telefon.
+			Dina bitcoin i Bitcoin Cash Wallet sparas på din Android telefon.
 			<b>Om du tappar bort din telefon, så tappar du bort dina bitcoin.</b>
 			Precis som pengar i din vanliga plånbok.
 		</p>
 		<p>
-			<b>Innan du avinstallerar Bitcoin Wallet</b> (eller tar bort appens data/rensar din telefon), <b>skicka dina bitcoin till en annan wallet</b>.
+			<b>Innan du avinstallerar Bitcoin Cash Wallet</b> (eller tar bort appens data/rensar din telefon), <b>skicka dina bitcoin till en annan wallet</b>.
 			Alla kvarvarande bitcoin kommer att försvinna.
 		</p>
 		<p>
@@ -95,7 +95,7 @@
 		</p>
 		<p>
 			Utsätt dig inte för onödig risk!
-			<b>Använd bara Bitcoin Wallet med mindre belopp</b> för daglig användning.
+			<b>Använd bara Bitcoin Cash Wallet med mindre belopp</b> för daglig användning.
 		</p>
 	]]>
 	</string>

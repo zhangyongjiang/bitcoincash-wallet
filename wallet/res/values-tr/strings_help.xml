@@ -24,7 +24,7 @@
   <string name="help_request_coins">
 <![CDATA[
 		<p>
-			Bu diyaloğu kullanarak başka bir kişiden Bitcoin talep edebilirsiniz (bu kişinin Bitcoin Wallet uygulamasını cihazında kurmuş olması gerekir).
+			Bu diyaloğu kullanarak başka bir kişiden Bitcoin talep edebilirsiniz (bu kişinin Bitcoin Cash Wallet uygulamasını cihazında kurmuş olması gerekir).
 		</p>
 		<p>
 			İlk olarak talep edilen Bitcoin miktarını girebilirsiniz.
@@ -60,7 +60,7 @@
 		</p>
 		<p>
 			Çevrimdışı olduğunuz sırada bir muamele girebilirsiniz.
-			Bitcoin Wallet uygulamasının sonraki açılışında gönderilir.
+			Bitcoin Cash Wallet uygulamasının sonraki açılışında gönderilir.
 			Bir muamelenin mümkün olduğu kadar çabuk işlenmesini istiyorsanız bağlantınızın iyi olduğundan (mesela WLAN ile).
 		</p>
 		<p>
@@ -81,7 +81,7 @@
 			Tıpkı fiziki cüzdanınızdaki para gibi.
 		</p>
 		<p>
-			<b>Bitcoin Wallet</b> uygulamasını kaldırmadan önce (ya da uygulama verilerini/cihazınızı sıfırlamadan önce) <b>tüm Bitcoinlerinizi başka bir cüzdana aktarınız</b>.
+			<b>Bitcoin Cash Wallet</b> uygulamasını kaldırmadan önce (ya da uygulama verilerini/cihazınızı sıfırlamadan önce) <b>tüm Bitcoinlerinizi başka bir cüzdana aktarınız</b>.
 			Kalan tüm Bitcoinler kaybolacaktır.
 		</p>
 		<p>
@@ -95,7 +95,7 @@
 		</p>
 		<p>
 			Riski sınırlayın!
-			<b>Bitcoin Wallet uygulamasını sadece küçük tutarlar için kullanınız</b>.
+			<b>Bitcoin Cash Wallet uygulamasını sadece küçük tutarlar için kullanınız</b>.
 		</p>
 	]]>
 	</string>

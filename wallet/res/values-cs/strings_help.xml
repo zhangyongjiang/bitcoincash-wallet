@@ -24,7 +24,7 @@
   <string name="help_request_coins">
 <![CDATA[
 		<p>
-			Pomocí tohoto dialogu můžete vyžádat Bitcoiny od někoho jiného (kdo by měl již také mít aplikaci Bitcoin Wallet).
+			Pomocí tohoto dialogu můžete vyžádat Bitcoiny od někoho jiného (kdo by měl již také mít aplikaci Bitcoin Cash Wallet).
 		</p>
 		<p>
 			Nejprve zadejte množství Bitcoinů, které požadujete.
@@ -60,7 +60,7 @@
 		</p>
 		<p>
 			Transakce můžete provádět, i když jste právě offline.
-			Budou provedeny při dalším spuštění aplikace Bitcoin Wallet.
+			Budou provedeny při dalším spuštění aplikace Bitcoin Cash Wallet.
 			Pokud chcete transakci provést co nejrychleji, ujistěte se, že máte dobré připojení (například pomocí bezdrátové sítě wifi).
 		</p>
 		<p>
@@ -85,7 +85,7 @@
 			Poté udržujte svou zálohu na bezpečném místě a pamatujte si heslo.
 		</p>
 		<p>
-			<b>Před odinstalací aplikace Bitcoin Wallet</b> (nebo výmazem dat aplikace/přístroje), <b>si přepošlete zůstatek do jiné peněženky</b>.
+			<b>Před odinstalací aplikace Bitcoin Cash Wallet</b> (nebo výmazem dat aplikace/přístroje), <b>si přepošlete zůstatek do jiné peněženky</b>.
 			Jakékoliv zbylé neodeslané Bitcony budou ztraceny.
 		</p>
 		<p>

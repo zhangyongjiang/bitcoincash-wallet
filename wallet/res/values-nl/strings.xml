@@ -41,9 +41,9 @@
   <string name="wallet_options_safety">Veiligheidsvoorschriften</string>
   <string name="wallet_options_technical_notes_title">Technische aantekeningen</string>
   <string name="wallet_options_donate">Geef fooi / Doneer</string>
-  <string name="wallet_donate_address_label">Donatie aan Bitcoin Wallet</string>
+  <string name="wallet_donate_address_label">Donatie aan Bitcoin Cash Wallet</string>
   <string name="wallet_low_storage_dialog_title">Interne opslag bijna vol!</string>
-  <string name="wallet_low_storage_dialog_msg">Bitcoin Wallet gebruikt interne opslag voor transacties en blocks. Wanneer er te weinig opslag beschikbaar is zal het stoppen met werken en lopen uw bitcoins gevaar!\n\nWilt u de Applicatie beheer instellingen openen om ongebruikte apps te verwijderen?</string>
+  <string name="wallet_low_storage_dialog_msg">Bitcoin Cash Wallet gebruikt interne opslag voor transacties en blocks. Wanneer er te weinig opslag beschikbaar is zal het stoppen met werken en lopen uw bitcoins gevaar!\n\nWilt u de Applicatie beheer instellingen openen om ongebruikte apps te verwijderen?</string>
   <string name="wallet_low_storage_dialog_button_apps">Beheer apps</string>
   <string name="wallet_timeskew_dialog_title">Check je datum- en tijdsinstellingen</string>
   <string name="wallet_timeskew_dialog_msg">De tijd van je apparaat wijkt af met %d minuten. Hierdoor kun je waarschijnlijk geen Bitcoins verzenden of ontvangen.\n\nCheck je instellingen voor datum, tijd en tijdzone en pas die indien nodig aan.</string>
@@ -53,7 +53,7 @@
   <string name="wallet_version_dialog_button_market">Google Play</string>
   <string name="wallet_version_dialog_button_binary">Download</string>
   <string name="wallet_old_sdk_dialog_title">Android versie is verouderd</string>
-  <string name="wallet_old_sdk_dialog_message">De kans bestaat dat één van de volgende versies van Bitcoin Wallet uw apparaat niet langer ondersteunen zal. In sommige gevallen kan het lastig worden nog met bitcoins te kunnen betalen vanaf dit apparaat.\n\nTenzij u weet wat u doet wordt u aanbevolen om coins elders onder te brengen.</string>
+  <string name="wallet_old_sdk_dialog_message">De kans bestaat dat één van de volgende versies van Bitcoin Cash Wallet uw apparaat niet langer ondersteunen zal. In sommige gevallen kan het lastig worden nog met bitcoins te kunnen betalen vanaf dit apparaat.\n\nTenzij u weet wat u doet wordt u aanbevolen om coins elders onder te brengen.</string>
   <string name="send_coins_activity_title">Verzend BCC</string>
   <string name="send_coins_fragment_request_payment_request_progress">Handtekening van %s ophalen…</string>
   <string name="send_coins_fragment_request_payment_request_failed_title">Handtekening ophalen mislukt</string>
@@ -202,7 +202,7 @@
   <string name="export_keys_dialog_success"><![CDATA[<p>Er is een backup van uw wallet gemaakt op <tt>%s</tt></p><p>Als uw apparaat een verwijderbare SD geheugenkaart bevat dan zou de backup hier op moeten staan. Verwijder de geheugenkaart en bewaar deze op een veilige plek. Als de geheugenkaart niet verwijderbaar is dan moet u uw backup op een andere plek dan op uw apparaat zelf archiveren.</p><p><b>Als de backup zich uitsluitend op uw apparaat bevindt, riskeert U het verlies van uw wallet en backup tezamen !</b></p><p>Zorg er altijd voor dat U uw backup wachtwoord goed onthoudt. Wilt U uw wallet nu archiveren?</p>]]></string>
   <string name="export_keys_dialog_failure">Uw portemonnee kan niet gebackupt worden:\n%s</string>
   <string name="export_keys_dialog_button_archive">Archiveer</string>
-  <string name="export_keys_dialog_mail_subject">Bitcoin Wallet backup</string>
+  <string name="export_keys_dialog_mail_subject">Bitcoin Cash Wallet backup</string>
   <string name="export_keys_dialog_mail_text">Het aangehechte versleutelde bestand bevat Bitcoin prive-sleutels en moet altijd veilig opgeborgen worden. Vergeet het versleutelingswachtwoord niet!</string>
   <string name="export_keys_dialog_mail_intent_chooser">Archiveer wallet met…</string>
   <string name="import_export_keys_dialog_password">wachtwoord</string>
@@ -303,7 +303,7 @@
   <string name="notification_peers_connected_msg">%d actieve verbindingen</string>
   <string name="notification_inactivity_title">Je hebt nog steeds Bitcoins op dit apparaat!</string>
   <string name="notification_inactivity_message">Onthou dat je saldo van %s verloren zal zijn als je de app verwijdert zonder de bitcoins eerst te verzenden.</string>
-  <string name="notification_inactivity_message_donate">Als je geen waarde hecht aan je coins zou je deze ook kunnen doneren aan het Bitcoin Wallet project</string>
+  <string name="notification_inactivity_message_donate">Als je geen waarde hecht aan je coins zou je deze ook kunnen doneren aan het Bitcoin Cash Wallet project</string>
   <string name="notification_inactivity_action_dismiss">Opnieuw vragen</string>
   <string name="notification_inactivity_action_dismiss_forever">Niet herinneren</string>
   <string name="appwidget_wallet_balance_title">Bitcoin saldo</string>

@@ -31,9 +31,9 @@
 	<string name="wallet_transactions_fragment_internal">vnútorné</string>
 	<string name="wallet_options_safety">Bezpečnosť</string>
 	<string name="wallet_options_donate">Prispieť</string>
-	<string name="wallet_donate_address_label">Prispieť na Bitcoin Wallet</string>
+	<string name="wallet_donate_address_label">Prispieť na Bitcoin Cash Wallet</string>
 	<string name="wallet_low_storage_dialog_title">Málo vnútornej pamäte!</string>
-	<string name="wallet_low_storage_dialog_msg">Bitcoin Wallet používa vnútornú pamäť zariadenia na ukladanie transakcií a blokov. Ak pamäť dôjde, aplikácia prestane fungovať a vaše Bitcoiny budú ohrozené!\n\nChcete otvoriť správcu aplikácií pre odinštalovanie nepotrebných aplikácií?</string>
+	<string name="wallet_low_storage_dialog_msg">Bitcoin Cash Wallet používa vnútornú pamäť zariadenia na ukladanie transakcií a blokov. Ak pamäť dôjde, aplikácia prestane fungovať a vaše Bitcoiny budú ohrozené!\n\nChcete otvoriť správcu aplikácií pre odinštalovanie nepotrebných aplikácií?</string>
 	<string name="wallet_low_storage_dialog_button_apps">Spravovať aplikácie</string>
 	<string name="wallet_timeskew_dialog_title">Skontrolujte nastavenie času!</string>
 	<string name="wallet_timeskew_dialog_msg">Vaše zariadenie má posunutý čas o %d minúť. Pravdepodobne nemôže posielať a prijímať Bitcoiny kvôli tomuto problému.\n\nMali by ste skontrolovať a upraviť nastavenie času alebo časovej zóny.</string>
@@ -42,7 +42,7 @@
 	<string name="wallet_version_dialog_button_market">Google Play</string>
 	<string name="wallet_version_dialog_button_binary">Stiahnuť</string>
 	<string name="wallet_old_sdk_dialog_title">Verzia vášho Androidu je zastaralá</string>
-	<string name="wallet_old_sdk_dialog_message">Je možné, že v novších verziách Bitcoin Wallet už nebude podporované vaše zariadenie. V určitých prípadoch môže byť obtiažne minúť Bitcoiny z tohto zariadenia.\n\nJe odporúčané presunúť Bitcoiny z tohto zariadenia.</string>
+	<string name="wallet_old_sdk_dialog_message">Je možné, že v novších verziách Bitcoin Cash Wallet už nebude podporované vaše zariadenie. V určitých prípadoch môže byť obtiažne minúť Bitcoiny z tohto zariadenia.\n\nJe odporúčané presunúť Bitcoiny z tohto zariadenia.</string>
 	<string name="send_coins_activity_title">Poslať Bitcoiny</string>
 	<string name="send_coins_fragment_request_payment_request_progress">Získavanie podpisu z %s...</string>
 	<string name="send_coins_fragment_request_payment_request_failed_title">Získavanie podpisu zlyhalo</string>
@@ -124,7 +124,7 @@
 	<string name="export_keys_dialog_success">Privátne kľúče boli zálohované do \n\n%s\n\nDržte ich v bezpečí, a taktiež držte v bezpečí vaše heslo!\n\nChcete archivovať kľúče použitím aplikácie?</string>
 	<string name="export_keys_dialog_failure">Vaše privátne kľúče sa nepodarilo zálohovať:\n%s</string>
 	<string name="export_keys_dialog_button_archive">Archivovať</string>
-	<string name="export_keys_dialog_mail_subject">Bitcoin Wallet - záloha privátnych kľúčov</string>
+	<string name="export_keys_dialog_mail_subject">Bitcoin Cash Wallet - záloha privátnych kľúčov</string>
 	<string name="export_keys_dialog_mail_text">Príloha obsahuje zašifrované privátne kľúče, uchovajte ich v bezpečí. Nezabudnite vaše heslo!</string>
 	<string name="export_keys_dialog_mail_intent_chooser">Archivovať kľúče použitím…</string>
 	<string name="import_export_keys_dialog_password">heslo</string>

@@ -58,7 +58,7 @@
 		</p>
 		<p>
 			Du kan indtaste en betaling, mens du er offline.
-			Den vil blive sendt, næste gang Bitcoin Wallet genstartes.
+			Den vil blive sendt, næste gang Bitcoin Cash Wallet genstartes.
 			Hvis du vil være sikker på, at en betaling bliver behandlet så hurtigt som muligt så sørg for, at du har en god forbindelse (dvs. på et trådløst netværk).
 		</p>
 		<p>
@@ -108,7 +108,7 @@
             <b>Tekniske noter:</b>
         </p>
         <p>
-            Som SPV-/letvægtstegnebog følger Bitcoin Wallet den kæde med mest proof-of-work (til tider også kaldt den \"længste kæde\", den \"vindende kæde\" eller \"Bitcoin blokkæden\").
+            Som SPV-/letvægtstegnebog følger Bitcoin Cash Wallet den kæde med mest proof-of-work (til tider også kaldt den \"længste kæde\", den \"vindende kæde\" eller \"Bitcoin blokkæden\").
             Du vil kun modtage indkommende betalinger og være i stand til at betale på denne kæde.
             Ingen garantier gives om Bitcoin på minoritetskæder, dvs. kæder med mindre proof-of-work.
         </p>

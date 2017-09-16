@@ -41,9 +41,9 @@
   <string name="wallet_options_safety">Note di sicurezza</string>
   <string name="wallet_options_technical_notes_title">Note tecniche</string>
   <string name="wallet_options_donate">Mancia / donazione</string>
-  <string name="wallet_donate_address_label">Donazione per Bitcoin Wallet</string>
+  <string name="wallet_donate_address_label">Donazione per Bitcoin Cash Wallet</string>
   <string name="wallet_low_storage_dialog_title">Spazio di memorizzazione interno quasi esaurito!</string>
-  <string name="wallet_low_storage_dialog_msg">Bitcoin Wallet usa lo spazio interno per ricordarsi le transizioni e i blocchi. Se non hai più spazio, l\'applicazione smetterà di funzionare e i tuoi Bitcoin saranno a rischio!\n\nVuoi aprire il gestore delle applicazioni per disinstallare le applicazioni inutili/non necessarie?</string>
+  <string name="wallet_low_storage_dialog_msg">Bitcoin Cash Wallet usa lo spazio interno per ricordarsi le transizioni e i blocchi. Se non hai più spazio, l\'applicazione smetterà di funzionare e i tuoi Bitcoin saranno a rischio!\n\nVuoi aprire il gestore delle applicazioni per disinstallare le applicazioni inutili/non necessarie?</string>
   <string name="wallet_low_storage_dialog_button_apps">Gestisci applicazioni</string>
   <string name="wallet_timeskew_dialog_title">Controlla data e ora!</string>
   <string name="wallet_timeskew_dialog_msg">Il tuo dispositivo è spento da %d minuti. Probabilmente non puoi inviare ne ricevere Bitcoins per via di questo problema.\n\nDevi controllare e correggere l\'ora e il fuso orario del tuo dispositivo.</string>
@@ -53,7 +53,7 @@
   <string name="wallet_version_dialog_button_market">Google Play</string>
   <string name="wallet_version_dialog_button_binary">Scarica</string>
   <string name="wallet_old_sdk_dialog_title">La versione Android non è aggiornata</string>
-  <string name="wallet_old_sdk_dialog_message">Potrebbe essere che le prossime versioni di Bitcoin Wallet non supporterà più il tuo dispositivo. In questi casi, potrebbe essere difficile spendere i Bitcoin su questo dispositivo.\n\nA meno che tu non sappia quello che stai facendo, ti raccomandiamo di spostare il tuo denaro al più presto.</string>
+  <string name="wallet_old_sdk_dialog_message">Potrebbe essere che le prossime versioni di Bitcoin Cash Wallet non supporterà più il tuo dispositivo. In questi casi, potrebbe essere difficile spendere i Bitcoin su questo dispositivo.\n\nA meno che tu non sappia quello che stai facendo, ti raccomandiamo di spostare il tuo denaro al più presto.</string>
   <string name="send_coins_activity_title">Invia Bitcoins</string>
   <string name="send_coins_fragment_request_payment_request_progress">Acquisizione firma da %s…</string>
   <string name="send_coins_fragment_request_payment_request_failed_title">Acquisizione firma fallita</string>
@@ -202,7 +202,7 @@
   <string name="export_keys_dialog_success">Le tue chiavi private sono state salvate con un backup a\n\n%s\n\nMantienile sicure, e mantieni sicura anche la tua password!\n\nVuoi archiviare le tue chiavi usando un\'app?</string>
   <string name="export_keys_dialog_failure">Non è stato possibile effettuare il backup del tuo portafoglio:\n%s</string>
   <string name="export_keys_dialog_button_archive">Archivio</string>
-  <string name="export_keys_dialog_mail_subject">Bitcoin Wallet backup</string>
+  <string name="export_keys_dialog_mail_subject">Bitcoin Cash Wallet backup</string>
   <string name="export_keys_dialog_mail_text">Il file cifrato allegato contiene chiavi private Bitcoin e dovrebbe essere mantenuto sicuro in ogni momento. Non dimenticarti la password per la crittografia!</string>
   <string name="export_keys_dialog_mail_intent_chooser">Archiviare portafoglio usando…</string>
   <string name="import_export_keys_dialog_password">password</string>
@@ -302,8 +302,8 @@
   <string name="notification_coins_received_msg">Ricevuti %s</string>
   <string name="notification_peers_connected_msg">Connesso a %d peers</string>
   <string name="notification_inactivity_title">Hai ancora dei Bitcoin su questo dispositivo!</string>
-  <string name="notification_inactivity_message">Ricorda che il tuo saldo di %s andrà perso se disinstalli l\'app Bitcoin Wallet senza prima averli inviati via.</string>
-  <string name="notification_inactivity_message_donate">Se non sei interessato ai tuoi soldi, puoi anche donarli al progetto Bitcoin Wallet.</string>
+  <string name="notification_inactivity_message">Ricorda che il tuo saldo di %s andrà perso se disinstalli l\'app Bitcoin Cash Wallet senza prima averli inviati via.</string>
+  <string name="notification_inactivity_message_donate">Se non sei interessato ai tuoi soldi, puoi anche donarli al progetto Bitcoin Cash Wallet.</string>
   <string name="notification_inactivity_action_dismiss">Ricordamelo</string>
   <string name="notification_inactivity_action_dismiss_forever">Non ricordarmelo</string>
   <string name="appwidget_wallet_balance_title">Saldo Bitcoin</string>

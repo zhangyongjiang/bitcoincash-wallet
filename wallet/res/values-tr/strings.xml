@@ -53,7 +53,7 @@
   <string name="wallet_version_dialog_button_market">Google Play</string>
   <string name="wallet_version_dialog_button_binary">İndir</string>
   <string name="wallet_old_sdk_dialog_title">Android sürümü eski</string>
-  <string name="wallet_old_sdk_dialog_message">Gelecek Bitcoin Wallet sürümünün cihazınızı desteklememesi mümkündür. Bazı durumlarda bu cihazla bitcoin harcamak zor olabilir.\n\nBitcoinlerinizi güvenli bir yere aktarmanız tavsiye edilir.</string>
+  <string name="wallet_old_sdk_dialog_message">Gelecek Bitcoin Cash Wallet sürümünün cihazınızı desteklememesi mümkündür. Bazı durumlarda bu cihazla bitcoin harcamak zor olabilir.\n\nBitcoinlerinizi güvenli bir yere aktarmanız tavsiye edilir.</string>
   <string name="send_coins_activity_title">Bitcoin gönder</string>
   <string name="send_coins_fragment_request_payment_request_progress">%s unsurundan imza alınıyor…</string>
   <string name="send_coins_fragment_request_payment_request_failed_title">İmza alımı başarısız oldu</string>

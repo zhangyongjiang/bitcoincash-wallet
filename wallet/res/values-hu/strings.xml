@@ -39,9 +39,9 @@
   <string name="wallet_options_encrypt_keys_change">Költekezési PIN megváltoztatása</string>
   <string name="wallet_options_safety">Biztonsági megjegyzések</string>
   <string name="wallet_options_donate">Borravaló / támogatás</string>
-  <string name="wallet_donate_address_label">Támogatás a Bitcoin Wallet-nek</string>
+  <string name="wallet_donate_address_label">Támogatás a Bitcoin Cash Wallet-nek</string>
   <string name="wallet_low_storage_dialog_title">Kevés a hely a készülék belső tárolóján!</string>
-  <string name="wallet_low_storage_dialog_msg">A Bitcoin Wallet belső tárhelyet használ a tranzakciók és blokkok megjegyzéséhez. Ha kifogy a helyből, leáll a működése és a Bitcoin-jaid veszélyben lesznek!\n\nMeg akarod nyitni az Alkalmazáskezelőt, hogy eltávolítsd a szükségtelen alkalmazásokat?</string>
+  <string name="wallet_low_storage_dialog_msg">A Bitcoin Cash Wallet belső tárhelyet használ a tranzakciók és blokkok megjegyzéséhez. Ha kifogy a helyből, leáll a működése és a Bitcoin-jaid veszélyben lesznek!\n\nMeg akarod nyitni az Alkalmazáskezelőt, hogy eltávolítsd a szükségtelen alkalmazásokat?</string>
   <string name="wallet_low_storage_dialog_button_apps">Alkalmazások kezelése</string>
   <string name="wallet_timeskew_dialog_title">Dátum &amp; időbeállítások ellenőrzése</string>
   <string name="wallet_timeskew_dialog_msg">A készülék időd késik %d percet. Valószínűleg nem tudsz küldeni és fogadni Bitcoin-okat ezen probléma miatt.\n\nLe kellene ellenőrizned, és ha szükséges, akkor javítanod a dátum, idő és időzóna beállításaidat.</string>
@@ -51,7 +51,7 @@
   <string name="wallet_version_dialog_button_market">Google Play</string>
   <string name="wallet_version_dialog_button_binary">Letöltés</string>
   <string name="wallet_old_sdk_dialog_title">Ez az Android verzió elavult</string>
-  <string name="wallet_old_sdk_dialog_message">Van esély arra, hogy a Bitcoin Wallet következő kiadásaiból egy már nem fogja többé támogatni a készüléked. Egyes esetekben bonyolult lehet érméket küldeni ezen a készüléken.\n\nHacsak nem vagy tisztában vele, hogy mit csinálsz, akkor minél előbb ajánlott az érméid átmozgatása.</string>
+  <string name="wallet_old_sdk_dialog_message">Van esély arra, hogy a Bitcoin Cash Wallet következő kiadásaiból egy már nem fogja többé támogatni a készüléked. Egyes esetekben bonyolult lehet érméket küldeni ezen a készüléken.\n\nHacsak nem vagy tisztában vele, hogy mit csinálsz, akkor minél előbb ajánlott az érméid átmozgatása.</string>
   <string name="send_coins_activity_title">Bitcoin küldése</string>
   <string name="send_coins_fragment_request_payment_request_progress">Aláírás begyűjtése tőle: %s…</string>
   <string name="send_coins_fragment_request_payment_request_failed_title">Aláírás begyűjtése sikertelen</string>
@@ -284,8 +284,8 @@
   <string name="notification_coins_received_msg">Fogadott mennyiség: %s</string>
   <string name="notification_peers_connected_msg">%d peer kapcsolódva</string>
   <string name="notification_inactivity_title">Még vannak Bitcoin-jaid ezen a készüléken!</string>
-  <string name="notification_inactivity_message">Emlékezz, hogy a(z) %s egyenleged el fog veszni, ha eltávolítod a Bitcoin Wallet alkalmazást anélkül, hogy először elküldenéd.</string>
-  <string name="notification_inactivity_message_donate">Ha nem érdekelnek az érméid, el is adományozhatod őket a Bitcoin Wallet projektnek.</string>
+  <string name="notification_inactivity_message">Emlékezz, hogy a(z) %s egyenleged el fog veszni, ha eltávolítod a Bitcoin Cash Wallet alkalmazást anélkül, hogy először elküldenéd.</string>
+  <string name="notification_inactivity_message_donate">Ha nem érdekelnek az érméid, el is adományozhatod őket a Bitcoin Cash Wallet projektnek.</string>
   <string name="notification_inactivity_action_dismiss">Emlékeztess később</string>
   <string name="notification_inactivity_action_dismiss_forever">Ne emlékeztess</string>
   <string name="appwidget_wallet_balance_title">Bitcoin egyenleg</string>

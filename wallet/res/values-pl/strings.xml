@@ -31,9 +31,9 @@
 	<string name="wallet_transactions_fragment_internal">wewnętrzny</string>
 	<string name="wallet_options_safety">Wskazówki bezpieczeństwa</string>
 	<string name="wallet_options_donate">Podaruj</string>
-	<string name="wallet_donate_address_label">Dotacje dla Bitcoin Wallet</string>
+	<string name="wallet_donate_address_label">Dotacje dla Bitcoin Cash Wallet</string>
 	<string name="wallet_low_storage_dialog_title">Mało przestrzeni w pamięci wewnętrznej!</string>
-	<string name="wallet_low_storage_dialog_msg">Bitcoin Wallet używa pamięci wewnętrznej do zapisywania transakcji i bloków. Jeżeli zabraknie mu przestrzeni, portfel przestanie pracować, a Twoje Bitcoiny zostaną narażone na ryzyko!\n\nCzy chcesz otworzyć manager aplikacji, żeby odinstalować niepotrzebne aplikacje?</string>
+	<string name="wallet_low_storage_dialog_msg">Bitcoin Cash Wallet używa pamięci wewnętrznej do zapisywania transakcji i bloków. Jeżeli zabraknie mu przestrzeni, portfel przestanie pracować, a Twoje Bitcoiny zostaną narażone na ryzyko!\n\nCzy chcesz otworzyć manager aplikacji, żeby odinstalować niepotrzebne aplikacje?</string>
 	<string name="wallet_low_storage_dialog_button_apps">Zarządzaj aplikacjami</string>
 	<string name="wallet_timeskew_dialog_title">Sprawdź ustawienia czasu!</string>
 	<string name="wallet_timeskew_dialog_msg">Czas na twoim urządzeniu jest przesunięty o %d minut. Prawdopodobnie w wyniku tego problemu nie możesz otrzymywać ani wysyłać Bitcoinów.\n\nSprawdź i skoryguj ustawienia czasu i strefy czasowej.</string>
@@ -42,7 +42,7 @@
 	<string name="wallet_version_dialog_button_market">Google Play</string>
 	<string name="wallet_version_dialog_button_binary">Pobierz</string>
 	<string name="wallet_old_sdk_dialog_title">Wersja Androida jest przestarzała</string>
-	<string name="wallet_old_sdk_dialog_message">Istnieje szansa że wraz z kolejnymi wydaniami Bitcoin Wallet zakończy wsparcie dla twojego urządzenia. W niektórych przypadkach wydawanie monet z tego urządzenia może ulec utrudnieniu.\n\nZalecane jest przeniesienie swoich monet w najbliższym czasie, chyba że wiesz co robisz.</string>
+	<string name="wallet_old_sdk_dialog_message">Istnieje szansa że wraz z kolejnymi wydaniami Bitcoin Cash Wallet zakończy wsparcie dla twojego urządzenia. W niektórych przypadkach wydawanie monet z tego urządzenia może ulec utrudnieniu.\n\nZalecane jest przeniesienie swoich monet w najbliższym czasie, chyba że wiesz co robisz.</string>
 	<string name="send_coins_activity_title">Wyślij Bitcoiny</string>
 	<string name="send_coins_fragment_receiving_address_label">Zapłać dla</string>
 	<string name="send_coins_fragment_receiving_address_hint">wpisz adres lub nazwę</string>
@@ -107,7 +107,7 @@
 	<string name="export_keys_dialog_success">Twoje klucze prywatne zostały eksportowane do\n\n%s\n\nZabezpiecz je wraz z hasłem!\n\nCzy chcesz zabezpieczyć Twoje klucze za pomocą tej aplikacji?</string>
 	<string name="export_keys_dialog_failure">Twoje prywatne klucze nie mogły być wyeksportowane:\n%s</string>
 	<string name="export_keys_dialog_button_archive">Archiwum</string>
-	<string name="export_keys_dialog_mail_subject">Przechowalnia kluczy prywatnych Bitcoin Wallet</string>
+	<string name="export_keys_dialog_mail_subject">Przechowalnia kluczy prywatnych Bitcoin Cash Wallet</string>
 	<string name="export_keys_dialog_mail_text">Załączony zaszyfrowany plik zawiera klucze prywatne Bitcoin i powinien być przechowywany w bezpiecznym miejscu przez cały czas. Nie zapomnij szyfrującego hasła!</string>
 	<string name="export_keys_dialog_mail_intent_chooser">Archiwizuj klucze przy użyciu… </string>
 	<string name="import_export_keys_dialog_password">hasło</string>

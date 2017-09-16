@@ -24,7 +24,7 @@
   <string name="help_request_coins">
 <![CDATA[
 		<p>
-			Ezt a dialógot használva kérhetsz érméket másik személytől (akinek már fel van telepítve a Bitcoin Wallet).
+			Ezt a dialógot használva kérhetsz érméket másik személytől (akinek már fel van telepítve a Bitcoin Cash Wallet).
 		</p>
 		<p>
 			Először adj meg egy Bitcoin összeget a kéréshez.
@@ -60,7 +60,7 @@
 		</p>
 		<p>
 			Adhatsz meg kifizetést amíg offline vagy.
-			A Bitcoin Wallet következő újraindításánál lesz elküldve.
+			A Bitcoin Cash Wallet következő újraindításánál lesz elküldve.
 			Ha azt szeretnéd, hogy a fizetés olyan gyorsan legyen feldolgozva, amennyire csak lehet, akkor bizonyosodj meg róla, hogy jól kapcsolódsz (azaz egy WLAN-on).
 		</p>
 		<p>

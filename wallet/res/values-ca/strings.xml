@@ -39,7 +39,7 @@
   <string name="wallet_options_encrypt_keys_change">Modifica el PIN de despesa</string>
   <string name="wallet_options_safety">Avisos de seguretat</string>
   <string name="wallet_options_donate">Propina / donar</string>
-  <string name="wallet_donate_address_label">Donar a Bitcoin Wallet</string>
+  <string name="wallet_donate_address_label">Donar a Bitcoin Cash Wallet</string>
   <string name="wallet_low_storage_dialog_title">Espai d\'emmagatzematge intern baix!</string>
   <string name="wallet_low_storage_dialog_msg">La Cartera de Bitcoin utilitza emmagatzematge intern per a recordar els blocs i les transaccions. Si es queda sense espai, deixara de funcionar i els teus bitcoins estaran en risc!\n\nVols obrir el Gestor d\'Aplicacions per a desinstal·lar aplicacions innecessàries?</string>
   <string name="wallet_low_storage_dialog_button_apps">Gestiona les aplicacions</string>
@@ -299,8 +299,8 @@
   <string name="notification_coins_received_msg">Rebuts%s</string>
   <string name="notification_peers_connected_msg">%d parells connectats</string>
   <string name="notification_inactivity_title">Encara tens Bitcoins en aquest dispositiu!</string>
-  <string name="notification_inactivity_message">Recorda que el teu balanç de %s es perdrà si es desinstal·la l\'aplicació Bitcoin Wallet sense enviar-los primer.</string>
-  <string name="notification_inactivity_message_donate">Si no et preocupen les teves monedes, també pots donar-les al projecte Bitcoin Wallet.</string>
+  <string name="notification_inactivity_message">Recorda que el teu balanç de %s es perdrà si es desinstal·la l\'aplicació Bitcoin Cash Wallet sense enviar-los primer.</string>
+  <string name="notification_inactivity_message_donate">Si no et preocupen les teves monedes, també pots donar-les al projecte Bitcoin Cash Wallet.</string>
   <string name="notification_inactivity_action_dismiss">Recorda més tard</string>
   <string name="notification_inactivity_action_dismiss_forever">No m\'ho recordis</string>
   <string name="appwidget_wallet_balance_title">Balanç Bitcoin</string>

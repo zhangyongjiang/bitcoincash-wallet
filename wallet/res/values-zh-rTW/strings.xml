@@ -42,9 +42,9 @@
   <string name="wallet_options_safety">安全提示</string>
   <string name="wallet_options_technical_notes_title">技術說明</string>
   <string name="wallet_options_donate">小費或捐贈</string>
-  <string name="wallet_donate_address_label">捐贈給 Bitcoin Wallet</string>
+  <string name="wallet_donate_address_label">捐贈給 Bitcoin Cash Wallet</string>
   <string name="wallet_low_storage_dialog_title">設備的內部儲存空間太少了！</string>
-  <string name="wallet_low_storage_dialog_msg">Bitcoin Wallet 使用內部儲存空間來紀錄交易和區塊。如果空間不足，它將會停止運作而且你的錢會有危險！\n\n是否要開啟應用程式管理員來移除不需要的應用程式呢？</string>
+  <string name="wallet_low_storage_dialog_msg">Bitcoin Cash Wallet 使用內部儲存空間來紀錄交易和區塊。如果空間不足，它將會停止運作而且你的錢會有危險！\n\n是否要開啟應用程式管理員來移除不需要的應用程式呢？</string>
   <string name="wallet_low_storage_dialog_button_apps">管理應用程式</string>
   <string name="wallet_timeskew_dialog_title">檢查時間日期設定</string>
   <string name="wallet_timeskew_dialog_msg">設備的時間差了約 %d 分鐘，可能會因此沒辦法付或是收 Bitcoin。\n\n請檢查並修正時間、日期、以及時區的設定。</string>
@@ -54,7 +54,7 @@
   <string name="wallet_version_dialog_button_market">Google Play</string>
   <string name="wallet_version_dialog_button_binary">下載</string>
   <string name="wallet_old_sdk_dialog_title">Android 版本太舊</string>
-  <string name="wallet_old_sdk_dialog_message">接下來某個版本的 Bitcoin Wallet 可能就開始不再支援你的設備了。在這個設備上付款可能會變得很困難。\n\n建議你馬上把錢轉到其他地方去，除非你還知道其他處理方式。</string>
+  <string name="wallet_old_sdk_dialog_message">接下來某個版本的 Bitcoin Cash Wallet 可能就開始不再支援你的設備了。在這個設備上付款可能會變得很困難。\n\n建議你馬上把錢轉到其他地方去，除非你還知道其他處理方式。</string>
   <string name="send_coins_activity_title">Bitcoin 付款</string>
   <string name="send_coins_fragment_request_payment_request_progress">正在從 %s 讀取簽章...</string>
   <string name="send_coins_fragment_request_payment_request_failed_title">讀取簽章失敗了</string>
@@ -206,7 +206,7 @@
   <string name="export_keys_dialog_success"><![CDATA[<p>你的錢包已經備份到 <tt>%s</tt> 了</p><p>如果你的設備裡有可移除的 SD 記憶卡，備份<i>應該</i>會在那張卡片裡面。請移除該卡片並放到安全的地方保管。如果該卡片為<i>不可移除</i>，你必須將備份從設備取出並歸檔到其他地方。</p><p><b>如果備份留在設備裡面，設備丟掉時備份也會一起不見！</b></p><p>無論如何，請記得你的備份密碼。你要現在就將錢包歸檔嗎？</p>]]></string>
   <string name="export_keys_dialog_failure">沒辦法備份錢包:\n%s</string>
   <string name="export_keys_dialog_button_archive">歸檔</string>
-  <string name="export_keys_dialog_mail_subject">Bitcoin Wallet 備份</string>
+  <string name="export_keys_dialog_mail_subject">Bitcoin Cash Wallet 備份</string>
   <string name="export_keys_dialog_mail_text">附件加密檔案包含 Bitcoin 私鑰，請隨時確保檔案的安全，並且不要忘記加密的密碼！</string>
   <string name="export_keys_dialog_mail_intent_chooser">用其他方式歸檔錢包...</string>
   <string name="import_export_keys_dialog_password">密碼</string>
@@ -306,8 +306,8 @@
   <string name="notification_coins_received_msg">收到 %s</string>
   <string name="notification_peers_connected_msg">%d 個節點連線</string>
   <string name="notification_inactivity_title">這個設備上還有 Bitcoin 喔！</string>
-  <string name="notification_inactivity_message">請記住：如果你沒有把錢先送走，就移除掉 Bitcoin Wallet 應用程式的話，餘額 %s 就會不見了。</string>
-  <string name="notification_inactivity_message_donate">如果你不在意這些錢的話，也可以捐獻給 Bitcoin Wallet 專案。</string>
+  <string name="notification_inactivity_message">請記住：如果你沒有把錢先送走，就移除掉 Bitcoin Cash Wallet 應用程式的話，餘額 %s 就會不見了。</string>
+  <string name="notification_inactivity_message_donate">如果你不在意這些錢的話，也可以捐獻給 Bitcoin Cash Wallet 專案。</string>
   <string name="notification_inactivity_action_dismiss">以後再提醒我</string>
   <string name="notification_inactivity_action_dismiss_forever">別再提醒我</string>
   <string name="appwidget_wallet_balance_title">Bitcoin 餘額</string>

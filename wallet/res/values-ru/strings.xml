@@ -42,9 +42,9 @@
   <string name="wallet_options_safety">Заметки по безопасности</string>
   <string name="wallet_options_technical_notes_title">Технические детали</string>
   <string name="wallet_options_donate">Пожертвовать</string>
-  <string name="wallet_donate_address_label">Пожертвование для Bitcoin Wallet</string>
+  <string name="wallet_donate_address_label">Пожертвование для Bitcoin Cash Wallet</string>
   <string name="wallet_low_storage_dialog_title">Мало места во внутреннем хранилище!</string>
-  <string name="wallet_low_storage_dialog_msg">Bitcoin Wallet использует внутреннее хранилище для транзакций и блогов. Если оно переполнится, кошелек перестанет работать и вы рискуете потерять монеты!\n\nХотите открыть Application Manager и деинсталлировать ненужные приложения?</string>
+  <string name="wallet_low_storage_dialog_msg">Bitcoin Cash Wallet использует внутреннее хранилище для транзакций и блогов. Если оно переполнится, кошелек перестанет работать и вы рискуете потерять монеты!\n\nХотите открыть Application Manager и деинсталлировать ненужные приложения?</string>
   <string name="wallet_low_storage_dialog_button_apps">Управлять приложениями</string>
   <string name="wallet_timeskew_dialog_title">Проверьте дату &amp; в настройках времени</string>
   <string name="wallet_timeskew_dialog_msg">Ваше устройство выключено %d минут. Возможно, из-за этого Вы не можете отправлять и получать Bitcoin.\n\nПроверьте и исправте при необходимости настройки даты, времени и часового пояса.</string>
@@ -54,7 +54,7 @@
   <string name="wallet_version_dialog_button_market">Google Play</string>
   <string name="wallet_version_dialog_button_binary">Скачать</string>
   <string name="wallet_old_sdk_dialog_title">Версия для Android устарела</string>
-  <string name="wallet_old_sdk_dialog_message">Ваше устройство скорее всего не будет поддерживаться следующей версией Bitcoin Wallet. В некоторых случаях, это может затруднить отправку с него монет.\n\nРекомендуется перенести монеты на другое устройство, если вы не уверены что можете с этим справиться.</string>
+  <string name="wallet_old_sdk_dialog_message">Ваше устройство скорее всего не будет поддерживаться следующей версией Bitcoin Cash Wallet. В некоторых случаях, это может затруднить отправку с него монет.\n\nРекомендуется перенести монеты на другое устройство, если вы не уверены что можете с этим справиться.</string>
   <string name="send_coins_activity_title">Отправка Bitcoin</string>
   <string name="send_coins_fragment_request_payment_request_progress">Получение подписи %s…</string>
   <string name="send_coins_fragment_request_payment_request_failed_title">Ошибка при получении подписи</string>
@@ -206,7 +206,7 @@
   <string name="export_keys_dialog_success"><![CDATA[<p>Создана резервная копия кошелька <tt>%s</tt></p><p>Если ваше устройство имеет съемную SD-карту, резервная копия <i>должна</i> быть на этой карте. Извлеките её и хранить в безопасном месте. Если ваше устройство <i>не поддерживает</i> съемную SD-карту, то вы должны хранить резервную копию в другом месте, а не на вашем устройстве.</p><p><b>Если ваше устройство это единственно место где хранится резервная копия, то вы рискуете потерять кошелек, потеряв устройство!</b></p><p>В любом случае, убедитесь, что вы помните пароль от резервной копии. Вы хотите архивировать ваш кошелек сейчас?</p>]]></string>
   <string name="export_keys_dialog_failure">Не удается создать резервную копию кошелька:\n%s</string>
   <string name="export_keys_dialog_button_archive">Архив</string>
-  <string name="export_keys_dialog_mail_subject">Резервное копирование Bitcoin Wallet</string>
+  <string name="export_keys_dialog_mail_subject">Резервное копирование Bitcoin Cash Wallet</string>
   <string name="export_keys_dialog_mail_text">Приложенный зашифрованный файл содержит приватные ключи Bitcoin, он должен всегда храниться в безопасности. Не забудьте пароль шифрования!</string>
   <string name="export_keys_dialog_mail_intent_chooser">Архивировать кошелек с помощью…</string>
   <string name="import_export_keys_dialog_password">пароль</string>
@@ -306,8 +306,8 @@
   <string name="notification_coins_received_msg">Получено %s</string>
   <string name="notification_peers_connected_msg">подключено %d участников</string>
   <string name="notification_inactivity_title">У вас всё ещё есть биткоины на этом устройстве!</string>
-  <string name="notification_inactivity_message">Внимание, ваш баланс %s будет потерян, если вы удалите Bitcoin Wallet до того, как перешлёте ваши средства.</string>
-  <string name="notification_inactivity_message_donate">Если вам не нужны монеты, вы можете пожертвовать их проекту Bitcoin Wallet.</string>
+  <string name="notification_inactivity_message">Внимание, ваш баланс %s будет потерян, если вы удалите Bitcoin Cash Wallet до того, как перешлёте ваши средства.</string>
+  <string name="notification_inactivity_message_donate">Если вам не нужны монеты, вы можете пожертвовать их проекту Bitcoin Cash Wallet.</string>
   <string name="notification_inactivity_action_dismiss">Напомнить позже</string>
   <string name="notification_inactivity_action_dismiss_forever">Не напоминать</string>
   <string name="appwidget_wallet_balance_title">Баланс биткоинов</string>

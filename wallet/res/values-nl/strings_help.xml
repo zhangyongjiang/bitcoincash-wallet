@@ -29,7 +29,7 @@
   <string name="help_request_coins">
 <![CDATA[
 		<p>
-			Deze dialoog kunt u gebruiken om bitcoins te verzoeken van iemand (die ook Bitcoin Wallet of een andere Bitcoin client geinstalleerd heeft).
+			Deze dialoog kunt u gebruiken om bitcoins te verzoeken van iemand (die ook Bitcoin Cash Wallet of een andere Bitcoin client geinstalleerd heeft).
 		</p>
 		<p>
 			Eerst vul je een hoeveelheid bitcoin in die je wilt ontvangen.
@@ -65,7 +65,7 @@
 		</p>
 		<p>
 			U kunt ook transacties ingeven terwijl u offline bent.
-			Deze transacties zullen verzonden worden zodra Bitcoin Wallet de volgende keer gestart wordt en online is.
+			Deze transacties zullen verzonden worden zodra Bitcoin Cash Wallet de volgende keer gestart wordt en online is.
 			Als u wenst dat uw transacties zo snel mogelijk verwerkt worden is het verstandig om verbonden te zijn met een zo goed mogelijke internet verbinding (d.w.z. op WLAN).
 		</p>
 		<p>
@@ -81,12 +81,12 @@
 			<b>Enkele woorden over de veiligheid van uw Bitcoins:</b>
 		</p>
 		<p>
-			Bitcoins in Bitcoin Wallet zijn opgeslagen op het apparaat.
+			Bitcoins in Bitcoin Cash Wallet zijn opgeslagen op het apparaat.
 			<b>Als u uw apparaat verliest zullen deze Bitcoins ook verloren zijn.</b>
 			Vergelijkbaar met het verlies van uw portemonnee.
 		</p>
 		<p>
-			<b>Voor het verwijderen van Bitcoin Wallet</b> (of verschonen van app data of wipe van het apparaat), <b>dient u de bitcoins over te zetten naar een andere wallet.</b>.
+			<b>Voor het verwijderen van Bitcoin Cash Wallet</b> (of verschonen van app data of wipe van het apparaat), <b>dient u de bitcoins over te zetten naar een andere wallet.</b>.
 			Overblijvende Bitcoins zullen verloren gaan.
 		</p>
 		<p>
@@ -100,7 +100,7 @@
 		</p>
 		<p>
 			Houd het risico laag!
-			<b>Gebruik Bitcoin Wallet alleen voor kleine bedragen</b> voor dagelijks gebruik.
+			<b>Gebruik Bitcoin Cash Wallet alleen voor kleine bedragen</b> voor dagelijks gebruik.
 		</p>
 	]]>
 	</string>

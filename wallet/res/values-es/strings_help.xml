@@ -24,7 +24,7 @@
   <string name="help_request_coins">
 <![CDATA[
 		<p>
-			Mediante este cuadro de diálogo puedes solicitar bitcoins de otra persona (que debería tener instalada Bitcoin Wallet).
+			Mediante este cuadro de diálogo puedes solicitar bitcoins de otra persona (que debería tener instalada Bitcoin Cash Wallet).
 		</p>
 		<p>
 			En primer lugar, puedes introducir la cantidad de bitcoins que se desea solicitar.
@@ -60,7 +60,7 @@
 		</p>
 		<p>
 			Puedes llevar a cabo una transacción sin conexión.
-			Se enviará la siguiente vez que se reinicie Bitcoin Wallet.
+			Se enviará la siguiente vez que se reinicie Bitcoin Cash Wallet.
 			Si quieres que se procese una transacción lo más rápido posible, asegúrate de tener una buena conexión (WLAN).
 		</p>
 		<p>
@@ -76,12 +76,12 @@
 			<b>Algunos comentarios sobre la seguridad de tus Bitcoins:</b>
 		</p>
 		<p>
-			Los bitcoins en Bitcoin Wallet se almacenan en el dispositivo.
+			Los bitcoins en Bitcoin Cash Wallet se almacenan en el dispositivo.
 			<b>Si pierdes tu dispositivo, pierdes tus Bitcoins.</b>
 			Esto es lo mismo que ocurriría con tu dinero en una cartera convencional.
 		</p>
 		<p>
-			<b>Antes de desinstalar Bitcoin Wallet</b> (o de eliminar los datos de aplicación o el almacenamiento del dispositivo), <b>transfiere tus Bitcoins a otra cartera</b>.
+			<b>Antes de desinstalar Bitcoin Cash Wallet</b> (o de eliminar los datos de aplicación o el almacenamiento del dispositivo), <b>transfiere tus Bitcoins a otra cartera</b>.
 			Los bitcoins que queden en el dispositivo se perderán.
 		</p>
 		<p>
@@ -95,7 +95,7 @@
 		</p>
 		<p>
 			¡Minimiza el riesgo!
-			<b>Utiliza Bitcoin Wallet solamente para cantidades pequeñas</b> de uso diario.
+			<b>Utiliza Bitcoin Cash Wallet solamente para cantidades pequeñas</b> de uso diario.
 		</p>
 	]]>
 	</string>
