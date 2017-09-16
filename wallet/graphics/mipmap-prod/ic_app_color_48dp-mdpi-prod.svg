@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="48px"
-   height="48px"
+   width="48"
+   height="48"
    viewBox="-0.015 -0.015 1.03 1.03"
-   preserveAspectRatio="xMidYMid"
-   id="svg2"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="ic_app_color_48dp-mdpi-prod.svg">
+   id="svg2">
   <metadata
      id="metadata35">
     <rdf:RDF>
@@ -27,91 +24,72 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     id="namedview33"
-     showgrid="false"
-     inkscape:zoom="15.546223"
-     inkscape:cx="13.963246"
-     inkscape:cy="24.000197"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g29" />
   <defs
      id="defs4">
     <filter
+       color-interpolation-filters="sRGB"
        id="coin-shadow">
       <feGaussianBlur
-         in="SourceAlpha"
-         result="blur-out"
+         id="feGaussianBlur7"
          stdDeviation="0.5"
-         id="feGaussianBlur7" />
+         result="blur-out"
+         in="SourceAlpha" />
       <feMerge
          id="feMerge9">
         <feMergeNode
            id="feMergeNode11" />
         <feMergeNode
-           in="SourceGraphic"
-           id="feMergeNode13" />
+           id="feMergeNode13"
+           in="SourceGraphic" />
       </feMerge>
     </filter>
     <filter
+       color-interpolation-filters="sRGB"
        id="symbol-shadow">
       <feGaussianBlur
-         in="SourceAlpha"
-         result="blur-out"
+         id="feGaussianBlur16"
          stdDeviation="1.3"
-         id="feGaussianBlur16" />
+         result="blur-out"
+         in="SourceAlpha" />
       <feMerge
          id="feMerge18">
         <feMergeNode
            id="feMergeNode20" />
         <feMergeNode
-           in="SourceGraphic"
-           id="feMergeNode22" />
+           id="feMergeNode22"
+           in="SourceGraphic" />
       </feMerge>
     </filter>
     <linearGradient
-       id="coin-gradient"
-       x1="0%"
-       y1="0%"
-       x2="0%"
-       y2="100%">
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="1"
+       id="coin-gradient">
       <stop
-         offset="0%"
-         style="stop-color:#f9b949"
-         id="stop25" />
+         id="stop25"
+         style="stop-color:#f9b949;stop-opacity:1"
+         offset="0" />
       <stop
-         offset="100%"
-         style="stop-color:#f7931a"
-         id="stop27" />
+         id="stop27"
+         style="stop-color:#f7931a;stop-opacity:1"
+         offset="1" />
     </linearGradient>
   </defs>
   <g
-     transform="scale(0.015625)"
+     transform="scale(0.015625,0.015625)"
      id="g29">
     <rect
-       style="fill:#1e4318;fill-opacity:1;stroke:#1e4318;stroke-width:3.70800018000000000;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect3765"
        width="59.540295"
-       height="59.098598"
+       height="59.540867"
        x="2.2298527"
-       y="2.4507008" />
+       y="2.2295666"
+       id="rect3765"
+       style="fill:#1e4318;fill-opacity:1;stroke:#1e4318;stroke-width:3.70800042;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
     <path
-       id="symbol"
        d="m 46.1009,27.441 c 0.637,-4.258 -2.605,-6.547 -7.038,-8.074 l 1.438,-5.768 -3.511,-0.875 -1.4,5.616 c -0.923,-0.23 -1.871,-0.447 -2.813,-0.662 l 1.41,-5.653 -3.509,-0.875 -1.439,5.766 c -0.764,-0.174 -1.514,-0.346 -2.242,-0.527 l 0.004,-0.018 -4.842,-1.209 -0.934,3.75 c 0,0 2.605,0.597 2.55,0.634 1.422,0.355 1.679,1.296 1.636,2.042 l -1.638,6.571 c 0.098,0.025 0.225,0.061 0.365,0.117 -0.117,-0.029 -0.242,-0.061 -0.371,-0.092 l -2.296,9.205 c -0.174,0.432 -0.615,1.08 -1.609,0.834 0.035,0.051 -2.552,-0.637 -2.552,-0.637 l -1.743,4.019 4.569,1.139 c 0.85,0.213 1.683,0.436 2.503,0.646 l -1.453,5.834 3.507,0.875 1.439,-5.772 c 0.958,0.26 1.888,0.5 2.798,0.726 l -1.434,5.745 3.511,0.875 1.453,-5.823 c 5.987,1.133 10.489,0.676 12.384,-4.739 1.527,-4.36 -0.076,-6.875 -3.226,-8.515 2.294,-0.529 4.022,-2.038 4.483,-5.155 z m -8.022,11.249 c -1.085,4.36 -8.426,2.003 -10.806,1.412 l 1.928,-7.729 c 2.38,0.594 10.012,1.77 8.878,6.317 z m 1.086,-11.312 c -0.99,3.966 -7.1,1.951 -9.082,1.457 l 1.748,-7.01 c 1.982,0.494 8.365,1.416 7.334,5.553 z"
-       style="fill:#ffffff;filter:url(#symbol-shadow)"
-       inkscape:connector-curvature="0"
-       transform="matrix(0.8660254,-0.50000001,0.50000001,0.8660254,-11.534277,20.078917)" />
+       transform="matrix(0.8660254,-0.50000001,0.50000001,0.8660254,-11.534277,20.078917)"
+       id="symbol"
+       style="fill:#ffffff;filter:url(#symbol-shadow)" />
   </g>
 </svg>
