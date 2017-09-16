@@ -78,10 +78,10 @@ android {
 
     productFlavors {
         prod {
-            applicationId = "hashengineering.bitcoincash.wallet"
+            applicationId = "com.hashengineering.bitcoincash.wallet"
         }
         _testnet {
-            applicationId = "hashengineering.bitcoincash.wallet_test"
+            applicationId = "com.hashengineering.bitcoincash.wallet_test"
         }
     }
 
