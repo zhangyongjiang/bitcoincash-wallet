@@ -1,10 +1,10 @@
-<b>Ha alltid dina bitcoin med dig i fickan!</b> Du gör betalningar genom att snabbt scanna en QR-kod. Handlare får betalningar tillförlitligt och omedelbart. Bitcoin Wallet är den första mobila bitcoin-appen, och utan tvekan den mest säkra!
+<b>Ha alltid dina bitcoin med dig i fickan!</b> Du gör betalningar genom att snabbt scanna en QR-kod. Handlare får betalningar tillförlitligt och omedelbart. Bitcoin Cash Wallet är den första mobila bitcoin-appen, och utan tvekan den mest säkra!
 
 
 <b>FUNKTIONER</b>
 
-• Ingen registrering, web- eller molntjänst behövs! Bitcoin Wallet är decentraliserad och peer-to-peer.
-• Visa summa bitcoin i BTC, mBTC eller µBTC.
+• Ingen registrering, web- eller molntjänst behövs! Bitcoin Cash Wallet är decentraliserad och peer-to-peer.
+• Visa summa bitcoin i BCC, mBCC eller µBCC.
 • Konventering till och från nationell valuta.
 • Skicka och ta emot bitcoin via NFC, QR-koder eller en Bitcoin-URL.
 • Adressbok för de Bitcoinadresser man använder ofta.
@@ -16,7 +16,7 @@
 
 <b>BIDRA</b>
 
-Bitcoin Wallet är <b>öppen mjukvara</b> och <b>fri mjukvara</b>. Licens: GPLv3
+Bitcoin Cash Wallet är <b>öppen mjukvara</b> och <b>fri mjukvara</b>. Licens: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Vår källkod finns tillgänglig på GitHub:
@@ -28,7 +28,7 @@ https://www.transifex.com/bitcoin-wallet/bitcoin-wallet/
 
 <b>REKOMMENDATIONER</b>
 
-• Många mobila plånböcker baserar sin kod på Bitcoin Wallet. Exempelvis: blockchain.info och BTCX.
+• Många mobila plånböcker baserar sin kod på Bitcoin Cash Wallet. Exempelvis: blockchain.info och BCCX.
 • Rekommenderad mobil wallet av https://bitcoin.org
 • Rekommenderad av BitPay.
 

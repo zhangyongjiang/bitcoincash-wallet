@@ -1,10 +1,10 @@
-<b>Bitcoin'leriniz daima cebinizde sizinle olsun!</b> Herhangi bir QR kodunu okutarak çabuk ödeme yapabilirsiniz. Bir tüccar olarak ödemeleri güvenle ve anında alabilirsiniz. Bitcoin Wallet ilk mobil ve muhtemelen en güvenli Bitcoin uygulamasıdır!
+<b>Bitcoin'leriniz daima cebinizde sizinle olsun!</b> Herhangi bir QR kodunu okutarak çabuk ödeme yapabilirsiniz. Bir tüccar olarak ödemeleri güvenle ve anında alabilirsiniz. Bitcoin Cash Wallet ilk mobil ve muhtemelen en güvenli Bitcoin uygulamasıdır!
 
 
 <b>ÖZELLİKLER</b>
 
 • Kayıt olmaya, web ya da bulut hizmetine gerek yoktur. Bu cüzdan merkezsiz ve eşten eşedir.
-• Bitcoin miktarını BTC, mBTC ve µBTC olarak göster.
+• Bitcoin miktarını BCC, mBCC ve µBCC olarak göster.
 • Ulusal para birimlerine ve bu para birimlerinden dönüştürme.
 • QR kodları, Bitcoin bağlantıları ve yakın alan iletişimi ile Bitcoin alımı ve gönderilmesi.
 • Sık kullanılan Bitcoin adresleri için adres defteri içerir.
@@ -16,7 +16,7 @@
 
 <b>KATKIDA BULUNUN</b>
 
-Bitcoin Wallet <b>açık kaynak</b> ve <b>özgür yazılımdır</b>. Lisans: GPLv3
+Bitcoin Cash Wallet <b>açık kaynak</b> ve <b>özgür yazılımdır</b>. Lisans: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Kaynak kodumuz GitHub'da mevcuttur:
@@ -28,7 +28,7 @@ https://www.transifex.com/bitcoin-wallet/bitcoin-wallet/
 
 <b>REFERANSLAR</b>
 
-• Birçok mobil cüzdan kodları için Bitcoin Wallet'i temel alırlar. Mesela blockchain.info ve BTCX.
+• Birçok mobil cüzdan kodları için Bitcoin Cash Wallet'i temel alırlar. Mesela blockchain.info ve BCCX.
 • https://bitcoin.org tarafından tavsiye edilen mobil cüzdan.
 • BitPay tarafından tavsiye edilir.
 

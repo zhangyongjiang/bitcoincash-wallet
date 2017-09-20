@@ -1,9 +1,9 @@
-Bitcoiny vždy so sebou vo svojom vrecku. Jednoduché a rýchle platby pomocou QR kódov. Pre obchodníkov ponúka spoľahlivé a okamžité prijímanie platieb. Bitcoin Wallet je prvá mobilná Bitcoin aplikácia a preukázateľne aj najbezpečnejšia.
+Bitcoiny vždy so sebou vo svojom vrecku. Jednoduché a rýchle platby pomocou QR kódov. Pre obchodníkov ponúka spoľahlivé a okamžité prijímanie platieb. Bitcoin Cash Wallet je prvá mobilná Bitcoin aplikácia a preukázateľne aj najbezpečnejšia.
 
 FUNKCIE:
 
 • Nie je potrebná žiadna registrácia ani žiadny účet.
-• Zobrazenie zostatku Bitcoinov v BTC alebo mBTC.
+• Zobrazenie zostatku Bitcoinov v BCC alebo mBCC.
 • Prepočet hodnoty Bitcoinov do viacerých cudzích mien.
 • Posielanie a prijímanie Bitcoinov pomocou NFC, QR kódov alebo Bitcoin adries.
 • Adresár pre často používané Bitcoin adresy.
@@ -14,7 +14,7 @@ FUNKCIE:
 Viac informácií o Bitcoine
 https://bitcoin.org
 
-Ak chcete prispieť do projektu Bitcoin Wallet nájdete ho na adrese
+Ak chcete prispieť do projektu Bitcoin Cash Wallet nájdete ho na adrese
 https://github.com/bitcoin-wallet/bitcoin-wallet
 
 Licencia: GPLv3

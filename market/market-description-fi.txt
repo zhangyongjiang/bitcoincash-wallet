@@ -1,10 +1,10 @@
-<b>Pidä Bitcoinisi aina mukana taskussasi!</b> Voit maksaa nopeasti skannaamalla QR-koodin. Kauppiaana saat maksut turvallisesti ja välittömästi. Bitcoin Wallet on ensimmäinen Bitcoin-mobiilisovellus ja luultavimmin myös kaikista turvallisin!
+<b>Pidä Bitcoinisi aina mukana taskussasi!</b> Voit maksaa nopeasti skannaamalla QR-koodin. Kauppiaana saat maksut turvallisesti ja välittömästi. Bitcoin Cash Wallet on ensimmäinen Bitcoin-mobiilisovellus ja luultavimmin myös kaikista turvallisin!
 
 
 <b>OMINAISUUDET</b>
 
 • Ei vaadi rekisteröintiä, verkkopalveluja tai pilvitallennusta! Tämä lompakko on hajautettu ja suorayhteyksinen.
-• Mahdollisuus näyttää Bitcoin-varat määrissä BTC, mBTC ja µBTC.
+• Mahdollisuus näyttää Bitcoin-varat määrissä BCC, mBCC ja µBCC.
 • Yksikkömuunnos valtioiden valuuttojen välillä.
 • Bitcoinien lähettäminen ja vastaanottaminen NFC, QR-koodien tai Bitcoin-URL-osotteiden avulla.
 • Osoitekirja säännöllisesti käytettyjä Bitcoin-osoitteita varten.
@@ -16,7 +16,7 @@
 
 <b>OSALLISTU</b>
 
-Bitcoin Wallet on <b>avointa lähdekoodia</b> ja <b>vapaa ohjelmisto</b>. Lisenssi: GPLv3
+Bitcoin Cash Wallet on <b>avointa lähdekoodia</b> ja <b>vapaa ohjelmisto</b>. Lisenssi: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Lähdekoodi saatavilla GitHub:sta:
@@ -28,7 +28,7 @@ https://www.transifex.com/bitcoin-wallet/bitcoin-wallet/
 
 <b>SUOSITTELUMME</b>
 
-• Useat mobiililompakot perustuvat Bitcoin Wallet-ohjelman lähdekoodiin, esimerkiksi: blockchain.info ja BTCX.
+• Useat mobiililompakot perustuvat Bitcoin Cash Wallet-ohjelman lähdekoodiin, esimerkiksi: blockchain.info ja BCCX.
 • https://bitcoin.org -sivuston suosittelema mobiililompakko.
 • BitPay:n suosittelema.
 
