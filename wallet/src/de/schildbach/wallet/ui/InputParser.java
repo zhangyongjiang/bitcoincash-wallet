@@ -78,7 +78,7 @@ public abstract class InputParser {
 
         @Override
         public void parse() {
-            if (input.startsWith("BITCOIN:-")) {
+            if (input.startsWith("BITCOINCASH:-")) {
                 try {
                     final byte[] serializedPaymentRequest = Qr.decodeBinary(input.substring(9));
 
@@ -96,7 +96,7 @@ public abstract class InputParser {
 
                     error(R.string.input_parser_invalid_paymentrequest, x.getMessage());
                 }
-            } else if (input.startsWith("bitcoin:")) {
+            } else if (input.startsWith("bitcoincash:")) {
                 try {
                     final BitcoinURI bitcoinUri = new BitcoinURI(null, input);
                     final Address address = bitcoinUri.getAddress();
