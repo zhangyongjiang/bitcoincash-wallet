@@ -11,6 +11,6 @@
     <string-array name="preferences_block_explorer_labels">
         <item>blocktrail.com</item>
         <item>bitinfocharts.com</item>
-        <!--item>blockchair.com</item -->
+        <!--itemgit >blockchair.com</item -->
     </string-array>
 </resources>
