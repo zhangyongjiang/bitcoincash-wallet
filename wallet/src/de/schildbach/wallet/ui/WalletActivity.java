@@ -625,7 +625,7 @@ public final class WalletActivity extends AbstractBindServiceActivity
         url.addEncodedQueryParameter("package", packageInfo.packageName);
         url.addQueryParameter("current", Integer.toString(packageInfo.versionCode));
 
-        new HttpGetThread(url.build(), application.httpUserAgent()) {
+        /*new HttpGetThread(url.build(), application.httpUserAgent()) {
             @Override
             protected void handleLine(final String line, final long serverTime) {
                 final int serverVersionCode = Integer.parseInt(line.split("\\s+")[0]);
@@ -680,7 +680,7 @@ public final class WalletActivity extends AbstractBindServiceActivity
                 }
             }
         }.start();
-
+*/
         if (CrashReporter.hasSavedCrashTrace()) {
             final StringBuilder stackTrace = new StringBuilder();
 
