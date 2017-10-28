@@ -74,6 +74,9 @@ android {
         prod {
             res.srcDirs = ["prod/res"]
         }
+        google_prod {
+            res.srcDirs = ["prod/res"]
+        }
     }
 
     productFlavors {
@@ -82,6 +85,9 @@ android {
         }
         _testnet {
             applicationId = "com.hashengineering.bitcoincash.wallet_test"
+        }
+        google_prod {
+            applicationId = "com.hashengineering.bitcoincash.wallet"
         }
     }
 

@@ -33,6 +33,7 @@ import de.schildbach.wallet.service.BlockchainState;
 import de.schildbach.wallet.service.BlockchainStateLoader;
 import de.schildbach.wallet.ui.send.FeeCategory;
 import de.schildbach.wallet.ui.send.SendCoinsActivity;
+import de.schildbach.wallet_test.BuildConfig;
 import de.schildbach.wallet_test.R;
 
 import android.app.Activity;
@@ -100,7 +101,7 @@ public final class WalletBalanceFragment extends Fragment {
 
         showLocalBalance = getResources().getBoolean(R.bool.show_local_balance);
         installedFromGooglePlay = "com.android.vending"
-                .equals(application.getPackageManager().getInstallerPackageName(application.getPackageName()));
+                .equals(application.getPackageManager().getInstallerPackageName(application.getPackageName())) || BuildConfig.FLAVOR.contains("google");
     }
 
     @Override
@@ -178,10 +179,9 @@ public final class WalletBalanceFragment extends Fragment {
 
     @Override
     public void onPrepareOptionsMenu(final Menu menu) {
-        final boolean hasSomeBalance = balance != null && !balance.isLessThan(SOME_BALANCE_THRESHOLD);
-        menu.findItem(R.id.wallet_balance_options_donate)
-                .setVisible(Constants.DONATION_ADDRESS != null && (!installedFromGooglePlay || hasSomeBalance));
-
+            final boolean hasSomeBalance = balance != null && !balance.isLessThan(SOME_BALANCE_THRESHOLD);
+            menu.findItem(R.id.wallet_balance_options_donate)
+                    .setVisible(Constants.DONATION_ADDRESS != null && (!installedFromGooglePlay || hasSomeBalance));
         super.onPrepareOptionsMenu(menu);
     }
 
