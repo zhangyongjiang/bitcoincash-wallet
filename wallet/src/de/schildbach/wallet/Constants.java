@@ -90,6 +90,10 @@ public final class Constants {
         /** Filename of the manual wallet backup. */
         public static final String EXTERNAL_WALLET_BACKUP = "bitcoincash-wallet-backup" + FILENAME_NETWORK_SUFFIX;
 
+        /** Suffix for the subject of the manual wallet backup. */
+        public static final String EXTERNAL_WALLET_BACKUP_SUBJECT_SUFFIX = NETWORK_PARAMETERS.getId()
+                .equals(NetworkParameters.ID_MAINNET) ? "" : " [testnet3]";
+
         /** Filename of the block store for storing the chain. */
         public static final String BLOCKCHAIN_FILENAME = "blockchain" + FILENAME_NETWORK_SUFFIX;
 
@@ -180,7 +184,12 @@ public final class Constants {
 
     public static final int NOTIFICATION_ID_CONNECTED = 1;
     public static final int NOTIFICATION_ID_COINS_RECEIVED = 2;
-    public static final int NOTIFICATION_ID_INACTIVITY = 3;
+    public static final int NOTIFICATION_ID_MAINTENANCE = 3;
+    public static final int NOTIFICATION_ID_INACTIVITY = 4;
+    public static final String NOTIFICATION_GROUP_KEY_RECEIVED = "group-received";
+    public static final String NOTIFICATION_CHANNEL_ID_RECEIVED = "received";
+    public static final String NOTIFICATION_CHANNEL_ID_ONGOING = "ongoing";
+    public static final String NOTIFICATION_CHANNEL_ID_IMPORTANT = "important";
 
     /** Desired number of scrypt iterations for deriving the spending PIN */
     public static final int SCRYPT_ITERATIONS_TARGET = 65536;

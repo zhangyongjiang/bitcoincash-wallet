@@ -264,7 +264,7 @@ public final class BitcoinIntegration {
         final Intent marketIntent = new Intent(Intent.ACTION_VIEW,
                 Uri.parse("market://details?id=de.schildbach.wallet"));
         final Intent binaryIntent = new Intent(Intent.ACTION_VIEW,
-                Uri.parse("https://github.com/bitcoin-wallet/bitcoin-wallet/releases"));
+                Uri.parse("https://github.com/bitcoincash-wallet/bitcoincash-wallet/releases"));
 
         final PackageManager pm = context.getPackageManager();
         if (pm.resolveActivity(marketIntent, 0) != null)

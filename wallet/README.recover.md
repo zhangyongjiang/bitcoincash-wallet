@@ -24,6 +24,8 @@ refrain from sending your coins to a temporary wallet created in that environmen
 lost e.g. on a power outage or computer failure. Your desired destination wallet should already be
 set up and you should have one of its receiving addresses or a QR code at hand.
 
+Alternatively, you can also use Ubuntu on Windows 10 64-bit, if you've fully upgraded to the Fall Creators Update (version 1709 or later). Open the Windows Start Menu, search for and start `Turn Windows features on or off`. Scroll down and tick the `Windows Subsystem for Linux` feature. Restart your computer when prompted. Next, install `Ubuntu` from the Windows Store. Once the download has completed, select `Launch`. It will prompt you to pick a username and complete the installation. From now on, you can start into a Linux shell by selecting `Ubuntu` from the Windows Start Menu.
+
 You should be at least a bit familiar with the Linux shell. Commands `in fixed-width font like this`
 are meant to be executed as a shell command. Before you execute each command by pressing return,
 make sure to understand what it does. You will need to adjust some file or directory names.
@@ -33,9 +35,9 @@ requiring your Ubuntu user password.
 
 ## PREPARATION
 
-On your PC, install the following Ubuntu packages:
+On your PC, within your Linux shell, install the following Ubuntu packages:
 
-    sudo apt install android-tools-adb openssl git maven
+    sudo apt install openjdk-8-jdk openjfx android-tools-adb openssl git maven
 
 On your Android device, go to Settings > Developer options and enable "USB debugging". On most
 recent devices you need to go to Settings > About first and tap on "Build number" multiple times
@@ -75,7 +77,7 @@ still be wrong. We can only be sure by looking at the decrypted data.
 
 Historically there is two backup formats. Let's look at the first printable characters in the file:
 
-    cat bitcoincash-wallet-decrypted-backup | tr -cd "[:print:]" | awk '{print $1}'
+    cat bitcoin-wallet-decrypted-backup | tr -cd "[:print:]" | awk '{print $1}'
 
 If it prints "org.bitcoin.production", you got the right password and the backup file uses the
 bitcoincashj protobuf format. This backup format was introduced in v3.47 (May 2014). Skip to
@@ -121,6 +123,15 @@ succeeds, it will print the transaction hash of the created transaction. You can
 a block explorer to watch, or just open the destination wallet and watch from there. If your coins
 are confirmed, you're done and you can skip the next paragraph to EPILOGUE.
 
+You can also get a list of the private keys. If your wallet has a spending PIN set you need to decrypt it first, otherwise the private keys won't appear. Note that when you decrypt the wallet *the private keys can be accessed (and your Bitcoins stolen) by anyone with access to the system*, including malware or other users. Unless you fully trust the security of the computer consider running it on an offline system with no network connectivity.
+
+    ./wallet-tool decrypt --wallet=/tmp/bitcoincash-wallet-decrypted-backup --password=<PIN>
+
+Then to get the private keys use:
+
+    ./wallet-tool dump --wallet=/tmp/bitcoincash-wallet-decrypted-backup --dump-privkeys
+
+Look for `priv WIF=<...>`, where `<...>` will be your private keys in wallet import format. Be careful where you put them, as anybody getting access to them will be able to steal your coins. Consider securely deleting the decrypted wallet once you get your private keys.
 
 ## RECOVERING FROM BASE58 KEY FORMAT
 
