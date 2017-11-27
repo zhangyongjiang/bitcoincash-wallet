@@ -4,7 +4,7 @@
 <b>ОСОБЕННОСТИ</b>
 
 • Не нужна ни регистрация, ни веб-сервис, ни облако! Этот кошелек децентрализован и является p2p.
-• Отображение суммы Bitcoin в BTC, mBTC и µBTC.
+• Отображение суммы Bitcoin в BCC, mBCC и µBCC.
 • Конверсия из и в национальные валюты.
 • Поддержка отправки и получения средств через NFC, QR-коды или Bitcoin URL.
 • Адресная книга часто используемых адресов.
@@ -16,20 +16,17 @@
 
 <b>ПОДДЕРЖКА</b>
 
-Bitcoin Wallet это <b>бесплатное приложение</b> с <b>открытым исходным кодом</b>. Лицензия: GPLv3
+Bitcoin Cash Wallet это <b>бесплатное приложение</b> с <b>открытым исходным кодом</b>. Лицензия: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.ru.html
 
 Исходный код приложения доступен на GitHub:
-https://github.com/bitcoin-wallet/bitcoin-wallet
+https://github.com/bitcoincash-wallet/bitcoincash-wallet
 
 Все переводы сделаны через Transifex:
 https://www.transifex.com/bitcoin-wallet/bitcoin-wallet/
 
 
-<b>РЕКОМЕНДАЦИИ</b>
 
-• Многие мобильные кошельки основывают свой код на Bitcoin Wallet. Например, blockchain.info и BTCX.
-• Рекомендуется BitPay.
 
 
 <i>Используйте на свой страх и риск!</i>
