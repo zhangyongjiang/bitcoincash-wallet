@@ -1,5 +1,11 @@
 Bitcoin Cash Wallet
-v5.39
+v5.39.1
+* Update Electon Cash Servers for Paper Wallet Sweep
+* Rename BCC to BCH
+* Rename Bitcoins to Bitcoin Cash in most places
+* Hide RBF menu item for unconfirmed transactions
+
+v5.39.0
 * update to Bitcoin Cash 5.39
 
 v5.27.5
