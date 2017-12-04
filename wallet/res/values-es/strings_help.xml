@@ -3,7 +3,7 @@
   <string name="help_wallet">
 <![CDATA[
 		<p>
-			La parte superior izquierda de la pantalla muestra su balance entre Bitcoins y la moneda nacional que elija.
+			La parte superior izquierda de la pantalla muestra su balance entre Bitcoin Cash y la moneda nacional que elija.
 			Toque para ir a la lista de monedas nacionales, y toque en una de las monedas para seleccionarla como predeterminada.
 		</p>
 		<p>
@@ -16,7 +16,7 @@
 			Toque en la entrada para añadir las direcciones de los remitentes o destinatarios a su lista de contactos.
 		</p>
 		<p>
-			Puede enviar o solicitar Bitcoins tocando los botones en la barra de acción.
+			Puede enviar o solicitar Bitcoin Cash tocando los botones en la barra de acción.
 			Más opciones disponibles en el menú de opciones.
 		</p>
 	]]>
@@ -73,15 +73,15 @@
   <string name="help_safety">
 <![CDATA[
 		<p>
-			<b>Algunos comentarios sobre la seguridad de tus Bitcoins:</b>
+			<b>Algunos comentarios sobre la seguridad de tus Bitcoin Cash:</b>
 		</p>
 		<p>
 			Los bitcoins en Bitcoin Cash Wallet se almacenan en el dispositivo.
-			<b>Si pierdes tu dispositivo, pierdes tus Bitcoins.</b>
+			<b>Si pierdes tu dispositivo, pierdes tus Bitcoin Cash.</b>
 			Esto es lo mismo que ocurriría con tu dinero en una cartera convencional.
 		</p>
 		<p>
-			<b>Antes de desinstalar Bitcoin Cash Wallet</b> (o de eliminar los datos de aplicación o el almacenamiento del dispositivo), <b>transfiere tus Bitcoins a otra cartera</b>.
+			<b>Antes de desinstalar Bitcoin Cash Wallet</b> (o de eliminar los datos de aplicación o el almacenamiento del dispositivo), <b>transfiere tus Bitcoin Cash a otra cartera</b>.
 			Los bitcoins que queden en el dispositivo se perderán.
 		</p>
 		<p>

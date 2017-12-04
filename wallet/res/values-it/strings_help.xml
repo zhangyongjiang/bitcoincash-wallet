@@ -3,7 +3,7 @@
   <string name="help_wallet">
 <![CDATA[
 		<p>
-			La parte in alto a sinistra dello schermo mostra il tuo saldo in Bitcoins e nella valuta nazionale selezionata.
+			La parte in alto a sinistra dello schermo mostra il tuo saldo in Bitcoin Cash e nella valuta nazionale selezionata.
 			Toccare per visualizzare la lista delle valute nazionali, e toccare una valuta per sceglierla come predefinita.
 		</p>
 		<p>
@@ -16,7 +16,7 @@
 			Toccare un elemento della lista per aggiungere l\'indirizzo del mittente o del destinatario nella rubrica degli indirizzi.
 		</p>
 		<p>
-			È possibile inviare o ricevere Bitcoins toccando i pulsanti nella barra delle azioni.
+			È possibile inviare o ricevere Bitcoin Cash toccando i pulsanti nella barra delle azioni.
 			Ulteriori opzioni sono disponibili nel menu delle opzioni.
 		</p>
 	]]>
@@ -44,7 +44,7 @@
   <string name="help_send_coins">
 <![CDATA[
 		<p>
-			Hai iniziato il processo per inviare Bitcoins.
+			Hai iniziato il processo per inviare Bitcoin Cash.
 			Sei giunto qui a partire dalla schermata principale o cliccando su di un URL Bitcoin dal tuo browser.
 		</p>
 		<p>
@@ -74,15 +74,15 @@
   <string name="help_safety">
 <![CDATA[
 		<p>
-			<b>Alcune informazioni riguardo la sicurezza relativa ai vostri Bitcoins:</b>
+			<b>Alcune informazioni riguardo la sicurezza relativa ai vostri Bitcoin Cash:</b>
 		</p>
 		<p>
-			I Bitcoins di Bitcoin Cash Wallet vengono memorizzati sul dispositivo.
+			I Bitcoin Cash di Bitcoin Cash Wallet vengono memorizzati sul dispositivo.
 			<b>Se perdi il dispositivo, perdi i tuoi Bitcoin.</b>
 			Esattamente come denaro nel tuo vero portafoglio.
 		</p>
 		<p>
-			<b>Prima di disinstallare Bitcoin Cash Wallet</b> (o cancellare i dati dell\'applicazione o del dispositivo), <b>trasferisci i tuoi Bitcoins ad un altro portafoglio</b>.
+			<b>Prima di disinstallare Bitcoin Cash Wallet</b> (o cancellare i dati dell\'applicazione o del dispositivo), <b>trasferisci i tuoi Bitcoin Cash ad un altro portafoglio</b>.
 			Eventuali Bitcoin non trasferiti saranno persi per sempre.
 		</p>
 		<p>

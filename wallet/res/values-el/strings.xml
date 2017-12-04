@@ -40,7 +40,7 @@
   <string name="wallet_version_dialog_button_market">Google Play</string>
   <string name="wallet_version_dialog_button_binary">Λήψη</string>
   <string name="wallet_old_sdk_dialog_title">Η έκδοση για Android είναι παρωχημένη</string>
-  <string name="send_coins_activity_title">Αποστολή Bitcoins</string>
+  <string name="send_coins_activity_title">Αποστολή Bitcoin Cash</string>
   <string name="send_coins_fragment_request_payment_request_wrong_signature">Λανθασμένη υπογραφή!</string>
   <string name="send_coins_fragment_payee_verified_by_unknown">άγνωστο</string>
   <string name="send_coins_fragment_receiving_address_label">Πληρωμή σε</string>
@@ -79,7 +79,7 @@
   <string name="maintenance_dialog_state_decrypting">Αποκρυπτογράφηση…</string>
   <string name="maintenance_dialog_state_done">Ολοκληρώθηκε.</string>
   <string name="maintenance_dialog_button_move">Μετακίνηση</string>
-  <string name="request_coins_activity_title">Αίτηση για Bitcoins</string>
+  <string name="request_coins_activity_title">Αίτηση για Bitcoin Cash</string>
   <string name="request_coins_fragment_amount_label">Ζητούμενο ποσό (προαιρετικό)</string>
   <string name="request_coins_fragment_accept_bluetooth_payment">Δεχτείτε την πληρωμή μέσω Bluetooth για περισσότερο αξιόπιστη επεξεργασία</string>
   <string name="request_coins_fragment_initiate_request_qr">Δώστε αυτόν τον QR-κώδικα στον αποστολέα για να τον σαρώσει.</string>
@@ -93,7 +93,7 @@
   <string name="address_book_list_receiving_random">Παλιές διευθύνσεις</string>
   <string name="address_book_list_sending_title">Αποστολή διευθύνσεων</string>
   <string name="address_book_empty_text">δεν υπάρχουν καταχωρήσεις στον κατάλογο διευθύνσεων</string>
-  <string name="address_book_context_send_title">Αποστολή Bitcoins στη διεύθυνση</string>
+  <string name="address_book_context_send_title">Αποστολή Bitcoin Cash στη διεύθυνση</string>
   <string name="address_book_context_edit_title">Επεξεργασία διεύθυνσης</string>
   <string name="address_book_context_remove_title">Αφαιρέστε τη διεύθυνση</string>
   <string name="address_book_context_copy_to_clipboard_title">Αντιγραφή στο πρόχειρο</string>
@@ -161,7 +161,7 @@
   <string name="scan_camera_problem_dialog_title">Λυπούμαστε</string>
   <string name="scan_camera_problem_dialog_message">Η φωτογραφική αντιμετωπίζει κάποιο πρόβλημα. Πιθανόν να χρειάζεται επανεκκίνηση.</string>
   <string name="input_parser_io_error">Δεν είναι δυνατή η ανάγνωση δεδομένων:\n%s</string>
-  <string name="input_parser_invalid_bitcoin_uri">Μη έγκυρο Bitcoin URI:\n%s</string>
+  <string name="input_parser_invalid_bitcoin_uri">Μη έγκυρο Bitcoin Cash URI:\n%s</string>
   <string name="input_parser_unverifyable_paymentrequest">Δεν είναι δυνατή η επαλήθευση της αίτησης πληρωμής:\n%s</string>
   <string name="input_parser_invalid_paymentrequest">Μη έγκυρο αίτημα πληρωμής:\n%s</string>
   <string name="input_parser_invalid_transaction">Μη έγκυρη συναλλαγή:\n%s</string>

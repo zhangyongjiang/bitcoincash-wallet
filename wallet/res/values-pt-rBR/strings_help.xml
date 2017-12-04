@@ -3,7 +3,7 @@
   <string name="help_wallet">
 <![CDATA[
 		<p>
-			O canto superior esquerdo da tela exibe o seu saldo em Bitcoins e em uma moeda nacional.
+			O canto superior esquerdo da tela exibe o seu saldo em Bitcoin Cash e em uma moeda nacional.
 			Toque para ver a lista de moedas nacionais, e toque em uma delas para selecioná-la como moeda padrão.
 		</p>
 		<p>
@@ -27,7 +27,7 @@
 			Usando essa tela, você consegue solicitar bitcoins para outra pessoa (que também já tenha instalado uma carteira Bitcoin).
 		</p>
 		<p>
-			Primeiro, você pode opcionalmente inserir uma quantidade de Bitcoins a ser solicitada.
+			Primeiro, você pode opcionalmente inserir uma quantidade de Bitcoin Cash a ser solicitada.
 		</p>
 		<p>
 			Um código QR será gerado e ele deve ser escaneado pela outra pessoa.
@@ -52,7 +52,7 @@
 			Ao usar o botão QR na barra de ações, você pode escanear códigos QR que contenham solicitações de pagamento.
 		</p>
 		<p>
-			Em seguida, você pode ver quantos Bitcoins você tem disponíveis para serem gastos no momento.
+			Em seguida, você pode ver quantos Bitcoin Cash você tem disponíveis para serem gastos no momento.
 			Se houver uma diferença entre o valor disponível para ser gasto e o saldo da tela principal, é devido a transações ainda não confirmadas.
 		</p>
 		<p>
@@ -76,8 +76,8 @@
 			<b>Notas importantes sobre segurança:</b>
 		</p>
 		<p>
-			As chaves para os seus Bitcoins são armazenadas no seu dispositivo.
-			<b>Se você o perder, você perderá suas chaves e, consequentemente, também perderá todos os seus Bitcoins.</b>
+			As chaves para os seus Bitcoin Cash são armazenadas no seu dispositivo.
+			<b>Se você o perder, você perderá suas chaves e, consequentemente, também perderá todos os seus Bitcoin Cash.</b>
 		</p>
 		<p>
 			Isso significa que você tem que fazer um <b>backup (cópia de segurança) da sua carteira</b>!
@@ -85,12 +85,12 @@
 			Mantenha o seu backup seguro e lembre a senha.
 		</p>
 		<p>
-			<b>Antes de instalar</b>, limpar as informações do aplicativo ou realizar um reset de seu dispositivo, <b>transfira seus Bitcoins para uma outra carteira</b>.
-			Os Bitcoins remanescentes serão perdidos.
+			<b>Antes de instalar</b>, limpar as informações do aplicativo ou realizar um reset de seu dispositivo, <b>transfira seus Bitcoin Cash para uma outra carteira</b>.
+			Os Bitcoin Cash remanescentes serão perdidos.
 		</p>
 		<p>
 			<b>Os pagamentos são irreversíveis</b>.
-			Se você enviar seus Bitcoins para um endereço desconhecido, não há quase nenhuma maneira de obtê-los de volta.
+			Se você enviar seus Bitcoin Cash para um endereço desconhecido, não há quase nenhuma maneira de obtê-los de volta.
 		</p>
 		<p>
 			<b>Mantenha o seu dispositivo móvel seguro!</b>
@@ -112,7 +112,7 @@
         <p>
             Por ser uma carteira SPV (carteira light), a Bitcoin Cash Wallet segue a corrente que tiver a maior prova-de-trabalho (também conhecida como a \"corrente mais comprida\", a \"corrente vencedora\" ou a \"blockchain do Bitcoin\").
             Você só irá poder receber e realizar pagamentos nesta corrente.
-            Nenhuma garantia pode ser feita sobre Bitcoins em correntes de minorias, ou seja, correntes que tenham menos prova-de-trabalho.
+            Nenhuma garantia pode ser feita sobre Bitcoin Cash em correntes de minorias, ou seja, correntes que tenham menos prova-de-trabalho.
         </p>
         <p>
             No passado, as correntes de minorias se tornaram irrelevantes muito rapidamente.

@@ -233,7 +233,7 @@
   <string name="scan_camera_permission_dialog_message">Чтобы сканировать QR-коды, вы должны разрешить использовать камеру.</string>
   <string name="input_parser_io_error">Не могу считать данные:\n%s</string>
   <string name="input_parser_cannot_classify">Не могу распознать ввод:\n%s</string>
-  <string name="input_parser_invalid_bitcoin_uri">Неверный Bitcoin URI:\n%s</string>
+  <string name="input_parser_invalid_bitcoin_uri">Неверный Bitcoin Cash URI:\n%s</string>
   <string name="input_parser_invalid_address">Неверный адрес Bitcoin!\n(Путаем основную сеть с тестовой?)</string>
   <string name="input_parser_unverifyable_paymentrequest">Не могу проверить платежный запрос:\n%s</string>
   <string name="input_parser_invalid_paymentrequest">Неверный платежный запрос:\n%s</string>
@@ -243,11 +243,11 @@
   <string name="preferences_category_labs">Лаборатория</string>
   <string name="preferences_precision_title">Деноминация и точность</string>
   <string name="preferences_precision_summary">Единицы, в которых отображаются суммы. Не влияет на вычисления.</string>
-  <string name="preferences_precision_labels_8">BCC, 8 десятичных разрядов</string>
-  <string name="preferences_precision_labels_6">BCC, 6 десятичных разрядов</string>
-  <string name="preferences_precision_labels_4">BCC, 4 десятичных разряда</string>
-  <string name="preferences_precision_labels_2_3">mBCC, 2 десятичных разряда</string>
-  <string name="preferences_precision_labels_0_6">µBCC, без десятичных разрядов</string>
+  <string name="preferences_precision_labels_8">BCH, 8 десятичных разрядов</string>
+  <string name="preferences_precision_labels_6">BCH, 6 десятичных разрядов</string>
+  <string name="preferences_precision_labels_4">BCH, 4 десятичных разряда</string>
+  <string name="preferences_precision_labels_2_3">mBCH, 2 десятичных разряда</string>
+  <string name="preferences_precision_labels_0_6">µBCH, без десятичных разрядов</string>
   <string name="preferences_own_name_title">Собственное название</string>
   <string name="preferences_own_name_summary">Ваше имя для добавления в запросы платежей. Желательно, покороче.</string>
   <string name="preferences_send_coins_autoclose_title">Автоматически закрывать диалог отправки монет</string>

@@ -236,11 +236,11 @@
   <string name="preferences_category_labs">Laboratoris</string>
   <string name="preferences_precision_title">Denominació i exactitud</string>
   <string name="preferences_precision_summary">Unitat en que es mostren els imports. No afecta al còmput.</string>
-  <string name="preferences_precision_labels_8">BCC, 8 xifres decimals</string>
-  <string name="preferences_precision_labels_6">BCC, 6 xifres decimals</string>
-  <string name="preferences_precision_labels_4">BCC, 4 xifres decimals</string>
-  <string name="preferences_precision_labels_2_3">mBCC, 2 xifres decimals</string>
-  <string name="preferences_precision_labels_0_6">µBCC, sense decimals</string>
+  <string name="preferences_precision_labels_8">BCH, 8 xifres decimals</string>
+  <string name="preferences_precision_labels_6">BCH, 6 xifres decimals</string>
+  <string name="preferences_precision_labels_4">BCH, 4 xifres decimals</string>
+  <string name="preferences_precision_labels_2_3">mBCH, 2 xifres decimals</string>
+  <string name="preferences_precision_labels_0_6">µBCH, sense decimals</string>
   <string name="preferences_own_name_title">Nom propi</string>
   <string name="preferences_own_name_summary">El teu propi nom, que s\'afegeix a les sol·licituds de pagament. Intenta que sigui breu.</string>
   <string name="preferences_send_coins_autoclose_title">Tancar de manera automàtica el diàleg d\'enviament de monedes</string>
@@ -298,7 +298,7 @@
   <string name="about_community_googleplus_summary">Debat sobre l\'aplicació</string>
   <string name="notification_coins_received_msg">Rebuts%s</string>
   <string name="notification_peers_connected_msg">%d parells connectats</string>
-  <string name="notification_inactivity_title">Encara tens Bitcoins en aquest dispositiu!</string>
+  <string name="notification_inactivity_title">Encara tens Bitcoin Cash en aquest dispositiu!</string>
   <string name="notification_inactivity_message">Recorda que el teu balanç de %s es perdrà si es desinstal·la l\'aplicació Bitcoin Cash Wallet sense enviar-los primer.</string>
   <string name="notification_inactivity_message_donate">Si no et preocupen les teves monedes, també pots donar-les al projecte Bitcoin Cash Wallet.</string>
   <string name="notification_inactivity_action_dismiss">Recorda més tard</string>

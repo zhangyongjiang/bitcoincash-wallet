@@ -233,7 +233,7 @@
   <string name="scan_camera_permission_dialog_message">為了要可以掃描代碼，你必須要授權給程式使用相機。</string>
   <string name="input_parser_io_error">無法讀取資料:\n%s</string>
   <string name="input_parser_cannot_classify">輸入沒辦法辨識:\n%s</string>
-  <string name="input_parser_invalid_bitcoin_uri">無效的 Bitcoin URI:\n%s</string>
+  <string name="input_parser_invalid_bitcoin_uri">無效的 Bitcoin Cash URI:\n%s</string>
   <string name="input_parser_invalid_address">發現無效的 Bitcoin 位址！\n(mainnet 和 testnet 搞混了嗎？)</string>
   <string name="input_parser_unverifyable_paymentrequest">沒辦法驗證請款資料:\n%s</string>
   <string name="input_parser_invalid_paymentrequest">無效的請款資料:\n%s</string>
@@ -243,11 +243,11 @@
   <string name="preferences_category_labs">實驗室功能</string>
   <string name="preferences_precision_title">顯示單位與位數</string>
   <string name="preferences_precision_summary">改變顯示單位，但不影響計算。</string>
-  <string name="preferences_precision_labels_8">BCC，小數 8 位</string>
-  <string name="preferences_precision_labels_6">BCC，小數 6 位</string>
-  <string name="preferences_precision_labels_4">BCC，小數 4 位</string>
-  <string name="preferences_precision_labels_2_3">mBCC，小數 2 位</string>
-  <string name="preferences_precision_labels_0_6">µBCC，沒有小數</string>
+  <string name="preferences_precision_labels_8">BCH，小數 8 位</string>
+  <string name="preferences_precision_labels_6">BCH，小數 6 位</string>
+  <string name="preferences_precision_labels_4">BCH，小數 4 位</string>
+  <string name="preferences_precision_labels_2_3">mBCH，小數 2 位</string>
+  <string name="preferences_precision_labels_0_6">µBCH，沒有小數</string>
   <string name="preferences_own_name_title">本名</string>
   <string name="preferences_own_name_summary">你自己的名字，用來放到請款資料中。請盡量簡短。</string>
   <string name="preferences_send_coins_autoclose_title">自動關閉付款對話框</string>

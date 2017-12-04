@@ -233,7 +233,7 @@
   <string name="scan_camera_permission_dialog_message">QR kodlarını okumak için kamerayı kullanma müsaadesi vermeniz gerekir.</string>
   <string name="input_parser_io_error">Veri okunamadı:\n%s</string>
   <string name="input_parser_cannot_classify">Girdi tanınamadı:\n%s</string>
-  <string name="input_parser_invalid_bitcoin_uri">Geçersiz Bitcoin URI\'si:\n%s</string>
+  <string name="input_parser_invalid_bitcoin_uri">Geçersiz Bitcoin Cash URI\'si:\n%s</string>
   <string name="input_parser_invalid_address">Geçersiz bitcoin adresi alındı!\n(esas ağ ile deneme ağı karışmış olmasın?)</string>
   <string name="input_parser_unverifyable_paymentrequest">Ödeme talebi denetlenemedi:\n%s</string>
   <string name="input_parser_invalid_paymentrequest">Geçersiz ödeme talebi:\n%s</string>
@@ -243,11 +243,11 @@
   <string name="preferences_category_labs">Laboratuvarlar</string>
   <string name="preferences_precision_title">İsimlendirme ve hassasiyet</string>
   <string name="preferences_precision_summary">Meblağların gösterileceği ünite. Hesaplalamaları etkilemez.</string>
-  <string name="preferences_precision_labels_8">BCC, 8 ondalık</string>
-  <string name="preferences_precision_labels_6">BCC, 6 ondalık</string>
-  <string name="preferences_precision_labels_4">BCC, 4 ondalık</string>
-  <string name="preferences_precision_labels_2_3">mBCC, 2 ondalık</string>
-  <string name="preferences_precision_labels_0_6">µBCC, ondalıksız</string>
+  <string name="preferences_precision_labels_8">BCH, 8 ondalık</string>
+  <string name="preferences_precision_labels_6">BCH, 6 ondalık</string>
+  <string name="preferences_precision_labels_4">BCH, 4 ondalık</string>
+  <string name="preferences_precision_labels_2_3">mBCH, 2 ondalık</string>
+  <string name="preferences_precision_labels_0_6">µBCH, ondalıksız</string>
   <string name="preferences_own_name_title">Kendi isminiz</string>
   <string name="preferences_own_name_summary">Ödeme taleplerine eklenecek isminiz. Kısa tutmaya çalışın.</string>
   <string name="preferences_send_coins_autoclose_title">Bitcoin gönderme diyaloğunu otomatik kapat</string>

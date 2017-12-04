@@ -135,7 +135,7 @@
 	<string name="scan_camera_problem_dialog_message">Problém s fotoaparátom. Pravdepodobne je potrebný reštart zariadenia.</string>
 	<string name="input_parser_io_error">Nepodarilo sa prečítať:\n%s</string>
 	<string name="input_parser_cannot_classify">Nepodarilo sa zaradiť vstup:\n%s</string>
-	<string name="input_parser_invalid_bitcoin_uri">Neplatná Bitcoin URI:\n%s</string>
+	<string name="input_parser_invalid_bitcoin_uri">Neplatná Bitcoin Cash URI:\n%s</string>
 	<string name="input_parser_invalid_address">Neplatná Bitcoin adresa!\n(Zamenené Mainnet/Testnet?)</string>
 	<string name="input_parser_invalid_paymentrequest">Neplatná žiadosť o platbu:\n%s</string>
 	<string name="input_parser_invalid_transaction">Neplatná transakcia:\n%s</string>

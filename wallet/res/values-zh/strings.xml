@@ -234,11 +234,11 @@
   <string name="preferences_category_labs">实验</string>
   <string name="preferences_precision_title">面值和精度</string>
   <string name="preferences_precision_summary">金额的显示单位，不会影响计算。</string>
-  <string name="preferences_precision_labels_8">BCC, 8 位小数</string>
-  <string name="preferences_precision_labels_6">BCC, 6 位小数</string>
-  <string name="preferences_precision_labels_4">BCC, 4 位小数</string>
-  <string name="preferences_precision_labels_2_3">mBCC, 2位小数</string>
-  <string name="preferences_precision_labels_0_6">µBCC, 没有小数位</string>
+  <string name="preferences_precision_labels_8">BCH, 8 位小数</string>
+  <string name="preferences_precision_labels_6">BCH, 6 位小数</string>
+  <string name="preferences_precision_labels_4">BCH, 4 位小数</string>
+  <string name="preferences_precision_labels_2_3">mBCH, 2位小数</string>
+  <string name="preferences_precision_labels_0_6">µBCH, 没有小数位</string>
   <string name="preferences_own_name_title">你的名字</string>
   <string name="preferences_own_name_summary">您自己的姓名，要添加到付款请求中。尽量保持简短。</string>
   <string name="preferences_send_coins_autoclose_title">自动关闭支付对话框</string>

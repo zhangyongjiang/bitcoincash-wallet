@@ -27,7 +27,7 @@
   <string name="wallet_transactions_options_filter_sent">Alimtuma</string>
   <string name="wallet_transactions_fragment_empty_text_received">Hakuna Bitcoin kupokea hivyo mbali</string>
   <string name="wallet_transactions_fragment_empty_text_sent">Hakuna Bitcoin kutumwa hivyo mbali</string>
-  <string name="wallet_transactions_fragment_empty_text_howto">Jinsi ya bamba Bitcoins? Nunua na pesa ya kawaida, na biashara, na kazi.</string>
+  <string name="wallet_transactions_fragment_empty_text_howto">Jinsi ya bamba Bitcoin Cash? Nunua na pesa ya kawaida, na biashara, na kazi.</string>
   <string name="wallet_transactions_row_warning_backup">Pongezi budha! Wewe kupokea pesa yako ya kwanza! Lazima kubamba backup, Huna wanataka kupata kuiba.</string>
   <string name="wallet_transactions_fragment_coinbase">kupatikana</string>
   <string name="wallet_transactions_fragment_internal">ndani</string>
@@ -189,7 +189,7 @@
   <string name="scan_camera_problem_dialog_message">Kamera ina tatizo. Pengine haja ya kuanzisha upya simu.</string>
   <string name="input_parser_io_error">Je, si bamba habari:\n%s</string>
   <string name="input_parser_cannot_classify">Je, si bamba pembejeo:\n%s</string>
-  <string name="input_parser_invalid_bitcoin_uri">Wacha tu! Bitcoin URI ni haramu!:\n%s</string>
+  <string name="input_parser_invalid_bitcoin_uri">Wacha tu! Bitcoin Cash URI ni haramu!:\n%s</string>
   <string name="input_parser_invalid_address">Bitcoin anwali ni haramus!\n(Je, una Mainnet/Testnet?)</string>
   <string name="input_parser_unverifyable_paymentrequest">Je, si ishara ombi malipo:\n%s</string>
   <string name="input_parser_invalid_paymentrequest">Ombi malipo haramu:\n%s</string>

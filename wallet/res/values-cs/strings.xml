@@ -224,7 +224,7 @@
   <string name="scan_camera_permission_dialog_message">Skenování QR kódů vyžaduje oprávnění používat kameru.</string>
   <string name="input_parser_io_error">Nelze přečíst data:\n%s</string>
   <string name="input_parser_cannot_classify">Nelze rozpoznat vstup:\n%s</string>
-  <string name="input_parser_invalid_bitcoin_uri">Neplatná Bitcoin URI:\n%s</string>
+  <string name="input_parser_invalid_bitcoin_uri">Neplatná Bitcoin Cash URI:\n%s</string>
   <string name="input_parser_invalid_address">Obdržená neplatná bitcoinová adresa!\n(Nemícháte mainnet/testnet?)</string>
   <string name="input_parser_unverifyable_paymentrequest">Nelze ověřit požadavek na platbu:\n%s</string>
   <string name="input_parser_invalid_paymentrequest">Neplatný požadavek na platbu:\n%s</string>
@@ -234,11 +234,11 @@
   <string name="preferences_category_labs">Laboratoř</string>
   <string name="preferences_precision_title">Denominace a přesnost</string>
   <string name="preferences_precision_summary">Jednotka pro zobrazování částek. Neovlivňuje výpočty.</string>
-  <string name="preferences_precision_labels_8">BCC, 8 desetinných míst</string>
-  <string name="preferences_precision_labels_6">BCC, 6 desetinných míst</string>
-  <string name="preferences_precision_labels_4">BCC, 4 desetinná místa</string>
-  <string name="preferences_precision_labels_2_3">mBCC, 2 desetinná místa</string>
-  <string name="preferences_precision_labels_0_6">µBCC, bez desetinných míst</string>
+  <string name="preferences_precision_labels_8">BCH, 8 desetinných míst</string>
+  <string name="preferences_precision_labels_6">BCH, 6 desetinných míst</string>
+  <string name="preferences_precision_labels_4">BCH, 4 desetinná místa</string>
+  <string name="preferences_precision_labels_2_3">mBCH, 2 desetinná místa</string>
+  <string name="preferences_precision_labels_0_6">µBCH, bez desetinných míst</string>
   <string name="preferences_own_name_title">Vlastní jméno</string>
   <string name="preferences_own_name_summary">Vaše jméno, přidávané k platebním požadavkům. Udržujte krátké.</string>
   <string name="preferences_send_coins_autoclose_title">Automaticky zavírat dialog odeslání platby</string>

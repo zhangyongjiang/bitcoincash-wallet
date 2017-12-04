@@ -4,7 +4,7 @@
     <string name="help_wallet">
 <![CDATA[
 		<p>
-			The upper left part of the screen displays your balance in Bitcoins and one selected national currency.
+			The upper left part of the screen displays your balance in Bitcoin Cash and one selected national currency.
 			Tap to go to the list of national currencies, and tap on one of the currencies to select it as default.
 		</p>
 		<p>
@@ -29,7 +29,7 @@
 			The payer should already have installed a Bitcoin wallet.
 		</p>
 		<p>
-			First, you can enter an amount of Bitcoins to request.
+			First, you can enter an amount of Bitcoin Cash to request.
 		</p>
 		<p>
 			Then, you either have the generated QR code scanned by the payer.
@@ -76,8 +76,8 @@
 			<b>Important safety notes:</b>
 		</p>
 		<p>
-			Bitcoins are stored on the device.
-			<b>If you lose it, you\'ll lose your Bitcoins.</b>
+			Bitcoin Cash are stored on the device.
+			<b>If you lose it, you\'ll lose your Bitcoin Cash.</b>
 		</p>
 		<p>
 			This means you need to <b>back up your wallet</b>!
@@ -85,12 +85,12 @@
 			Keep your backup safe and remember the password.
 		</p>
 		<p>
-			<b>Before uninstalling</b> (or clearing app data/wiping your device), <b>transfer your Bitcoins to another wallet</b>.
-			Remaining Bitcoins will be lost.
+			<b>Before uninstalling</b> (or clearing app data/wiping your device), <b>transfer your Bitcoin Cash to another wallet</b>.
+			Remaining Bitcoin Cash will be lost.
 		</p>
 		<p>
 			<b>Payments are irreversible</b>.
-			If you send your Bitcoins into the void, there is almost no way to get them back.
+			If you send your Bitcoin Cash into the void, there is almost no way to get them back.
 		</p>
 		<p>
 			<b>Keep your mobile device safe!</b>
@@ -112,7 +112,7 @@
         <p>
             As an SPV/light wallet, Bitcoin Cash Wallet follows the chain of the most proof-of-work (sometimes also called the \"longest chain\", the \"winning chain\" or the \"Bitcoin blockchain\").
             You will only receive incoming payments and be able to pay on that chain.
-            No guarantees can be made about Bitcoins on minority chains, that is chains with less proof-of-work.
+            No guarantees can be made about Bitcoin Cash on minority chains, that is chains with less proof-of-work.
         </p>
         <p>
             In the past, minority chains have always become irrelevant very quickly.
