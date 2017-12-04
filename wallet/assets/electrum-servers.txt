@@ -1,1 +1,3 @@
-tls:electrum-abc.cascharia.com::08aa855b19599d84871cc4ce2218dee0f585eefae8fd8fa1899cad27ebe05d7f
+tls:mash.1209k.com
+tls:electron.ueo.ch
+tls:abc.vom-stausee.de:52002
