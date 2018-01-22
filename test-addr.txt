@@ -1,0 +1,10 @@
+https://testnet.manu.backend.hamburg/bitcoin-cash-faucet
+
+addr:
+myoS184FejX9Qy6LMpEsCxyagHJGwAGNsq
+
+Private Key
+cMpkBdJP6dAqtCqzWyj31paV3XyoYcddD8srpewhoueVbrNXnANn
+
+send left coins back to mgRoeWs2CeCEuqQmNfhJjnpX8YvtPACmCX
+
